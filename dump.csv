@@ -1,4 +1,4 @@
-Updated: 2015-04-01 07:06:00 +0000
+Updated: 2015-04-01 08:00:00 +0000
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/;Роскомнадзор;54485-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/1.html;Роскомнадзор;54483-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/12.html;Роскомнадзор;54486-URL-on;2015-03-23
@@ -848,8 +848,8 @@ Updated: 2015-04-01 07:06:00 +0000
 162.159.241.235 | 162.159.242.235 | 190.93.252.29 | 190.93.253.29 | 190.93.254.89 | 190.93.255.89;chan.sankakucomplex.com;http://chan.sankakucomplex.com/post/show/3415414;Роскомнадзор;13854-URL-on;2013-11-01
 162.159.241.235 | 162.159.242.235 | 190.93.252.29 | 190.93.253.29 | 190.93.254.89 | 190.93.255.89;chan.sankakucomplex.com;http://chan.sankakucomplex.com/post/show/3416901;Роскомнадзор;14810-URL-on;2013-11-27
 162.159.241.235 | 162.159.242.235 | 190.93.252.29 | 190.93.253.29 | 190.93.254.89 | 190.93.255.89;chan.sankakucomplex.com;http://chan.sankakucomplex.com/post/show/3417668;Роскомнадзор;13585-URL-on;2013-11-01
-208.91.197.67;chaplingames.net;http://chaplingames.net/;суд;2-946/13;2013-06-10
-208.91.197.67;chaplingames.net;http://chaplingames.net/slot-igrovie-avtomati-online/;суд;2-3660/13;2013-09-12
+208.91.197.104 | 208.91.197.67;chaplingames.net;http://chaplingames.net/;суд;2-946/13;2013-06-10
+208.91.197.104 | 208.91.197.67;chaplingames.net;http://chaplingames.net/slot-igrovie-avtomati-online/;суд;2-3660/13;2013-09-12
 104.28.12.32 | 104.28.13.32;chaturbatemales.com;http://chaturbatemales.com/asdsdfbm457-28122014-1017-Male-Chaturbate/;Роскомнадзор;49860-URL-on;2015-02-13
 31.220.3.54;chechenews.com;http://chechenews.com/;суд;2-8752/2013;2013-12-13
 31.220.3.54;chechenews.com;http://chechenews.com/developments/20060-1.html;Генпрокуратура;27-27-2014/Ид2520-14;2014-08-04
@@ -1016,7 +1016,7 @@ Updated: 2015-04-01 07:06:00 +0000
 192.186.233.232;diplom-77.ru;http://diplom-77.ru/index.php?page=diplom-samara;суд;2-4036/13;2013-12-25
 216.246.23.12;diplom-attestat.net;http://diplom-attestat.net/samara.html;суд;2-4056/13;2013-12-25
 78.140.140.202;diplom-garant.com;http://diplom-garant.com/;суд;2-1322/2014;2014-09-22
-78.140.185.161;diplom-garant.com;http://diplom-garant.com/diploma/250;суд;2-1899/2014;2014-05-21
+78.140.140.202 | 78.140.185.161;diplom-garant.com;http://diplom-garant.com/diploma/250;суд;2-1899/2014;2014-05-21
 50.62.230.1;diplom-i-attestat.com;http://diplom-i-attestat.com/diplom;суд;2-2743/2014;2014-12-09
 31.131.1.70;diplom-original.com;http://diplom-original.com/;суд;2-779/2014;2014-11-10
 212.7.219.34;diplom-sale.ru;http://diplom-sale.ru/;суд;2-1316/2014;2014-09-22
@@ -1046,7 +1046,7 @@ Updated: 2015-04-01 07:06:00 +0000
 31.204.154.149 | 31.204.154.155;diploma72.ru;http://diploma72.ru/prices-and-examples;суд;2-341/2014;2014-11-11
 31.204.154.149 | 31.204.154.155;diploma72.ru;http://diploma72.ru/tumen;суд;2-341/2014;2014-11-11
 192.186.252.164 | 192.186.252.166;diplomgood.com;http://diplomgood.com/;суд;33-15155/2013;2013-07-16
-186.2.161.17;diplomhelp.com;http://diplomhelp.com;суд;2-1208/2014;2014-09-15
+83.125.22.211;diplomhelp.com;http://diplomhelp.com;суд;2-1208/2014;2014-09-15
 83.125.22.211;diplomhelp.com;http://diplomhelp.com/pr.php;суд;2-2040/2014;2014-09-26
 104.28.10.5 | 104.28.11.5;diplomi-kupit.com;http://diplomi-kupit.com/;суд;2-1314/2014;2014-09-22
 104.28.10.5 | 104.28.11.5;diplomi-kupit.com;http://diplomi-kupit.com/kupit-diplom-v-samare.html;суд;2-341/14;2014-01-21
@@ -1294,7 +1294,7 @@ Updated: 2015-04-01 07:06:00 +0000
 85.204.22.15;firma-odnodnevka.com;http://firma-odnodnevka.com/;суд;2-9054/2013;2013-11-26
 104.28.28.50 | 104.28.29.50 | 108.162.198.227 | 108.162.199.227;first-hand.biz;http://first-hand.biz/;ФСКН;2/1/11-14314;2013-12-07
 91.226.125.4 | 91.226.127.236;first-of-truth.com;http://first-of-truth.com/description.php;ФСКН;2/1/11-26296;2014-09-19
-173.254.28.107;first-passport.com;http://first-passport.com/;суд;2-1255/2014;2014-09-16
+104.28.18.20 | 104.28.19.20;first-passport.com;http://first-passport.com/;суд;2-1255/2014;2014-09-16
 104.28.18.22 | 104.28.19.22;first-prava.com;http://first-prava.com/;суд;2-1298/2014;2014-09-19
 104.28.2.19 | 104.28.3.19;firstdoctor.biz;http://firstdoctor.biz;ФСКН;2/1/11-31840;2015-01-21
 68.169.73.82;fishmpegs.com;http://fishmpegs.com/;Роскомнадзор;31418-URL-on;2014-08-01
@@ -6321,7 +6321,7 @@ Updated: 2015-04-01 07:06:00 +0000
 178.33.236.98 | 178.33.237.125 | 37.59.128.208 | 37.59.34.124 | 5.135.118.209 | 5.135.225.38;www.cdpoker.com;http://www.cdpoker.com;суд;2-1687/2013;2013-05-23
 91.212.89.55;www.ceny.uz;http://www.ceny.uz/objavlenie/Kuritelnie-smesi--Jwh-jwh-kupit-jwh-018-zakazat-jwh-jwh-250-serii-jwh-+kak-sdelat-jwh-reagent-jwh%09-jwh-018-kupit-jwh-18-sredstvami-serii-jwh-jwh-spays-sintez-jwh-narkoticheskimi-sredstvami-serii-jwh-jwh-+v-domashnih-usloviyah-prigotovle-43412.htm;ФСКН;2/1/11-33992;2015-03-11
 103.240.151.25;www.cgnbiotech.com;http://www.cgnbiotech.com/goods.asp?Page=3;ФСКН;2/1/11-24874;2014-08-11
-208.91.197.67;www.chaplingames.net;http://www.chaplingames.net;суд;2-1687/2013;2013-05-23
+208.91.197.104 | 208.91.197.67;www.chaplingames.net;http://www.chaplingames.net;суд;2-1687/2013;2013-05-23
 31.220.3.54;www.chechenews.com;http://www.chechenews.com/;суд;2-8752/2013;2013-12-13
 31.220.3.54;www.chechenews.com;http://www.chechenews.com/developments/13082-1.html;Генпрокуратура;27-27-2014/Ид2548-14;2014-08-01
 31.220.3.54;www.chechenews.com;http://www.chechenews.com/developments/16004-1.html;Генпрокуратура;27-27-2014/Ид857-14;2014-06-03
@@ -6404,12 +6404,12 @@ Updated: 2015-04-01 07:06:00 +0000
 104.148.61.8;www.diplom281.ru;http://www.diplom281.ru/articles/price/;суд;2-10696/2014;2014-10-21
 69.195.101.66;www.diploma5.ru;http://www.diploma5.ru/samara;суд;2-285/2014;2014-01-24
 72.8.190.47;www.diplomru.com;http://www.diplomru.com/;суд;2-1209/2014;2014-09-15
-23.229.204.200;www.diplomvsem.com;http://www.diplomvsem.com/;суд;2-1738/14;2014-07-28
+160.153.32.46 | 23.229.204.200;www.diplomvsem.com;http://www.diplomvsem.com/;суд;2-1738/14;2014-07-28
 104.28.24.115 | 104.28.25.115;www.djsort.com;http://www.djsort.com/;суд;2-3765/14;2014-10-20
 69.192.3.16 | 69.192.3.64;www.dlsite.com;http://www.dlsite.com/ecchi-eng/work/=/product_id/RE124839;Роскомнадзор;48968-URL-on;2015-02-04
 124.147.10.210 | 202.6.246.29 | 203.209.152.55;www.dmm.co.jp;http://www.dmm.co.jp/en/dc/doujin/-/detail/=/cid=d_073247/;Роскомнадзор;40892-URL-on;2014-11-06
 124.147.10.210 | 202.6.246.29 | 203.209.152.55;www.dmm.co.jp;http://www.dmm.co.jp/lp/dc/book/index276.html/%20/navi%20none/?utm_source=site&utm_medium=display&utm_campaign=pc#38999071807949304771;Роскомнадзор;47256-URL-on;2015-01-23
-89.184.73.154;www.dokumenthelp.com;http://www.dokumenthelp.com;суд;2-1189/2014;2014-09-16
+89.184.73.154 | 89.184.75.100;www.dokumenthelp.com;http://www.dokumenthelp.com;суд;2-1189/2014;2014-09-16
 89.248.165.191;www.doll-dreams.info;http://www.doll-dreams.info/index.html;Роскомнадзор;22211-URL-on;2014-03-26
 37.1.203.121 | 78.140.138.80;www.domachnyi-metode.net;http://www.domachnyi-metode.net/;суд;2-6851/2014;2014-12-01
 173.201.100.37;www.dongfan-pharm.com;http://www.dongfan-pharm.com/?Product/Product111/;ФСКН;2/1/11-11339;2013-09-13
@@ -6489,8 +6489,8 @@ Updated: 2015-04-01 07:06:00 +0000
 77.120.115.184;www.ex.ua;http://www.ex.ua/9232166;ФСКН;2/1/11-34314;2015-03-16
 50.63.46.1;www.exploders.info;http://www.exploders.info/articles/0/22.html;суд;2-37/2015;2015-01-12
 50.63.46.1;www.exploders.info;http://www.exploders.info/articles/1/22.html;суд;2-10945/2014;2014-12-25
-91.228.7.249;www.externat-diplom.info;http://www.externat-diplom.info/samara.php;суд;2-4032/13;2013-12-27
-89.184.75.58;www.externat-diplom.ru;http://www.externat-diplom.ru/;суд;33-15155/2013;2013-07-16
+91.228.7.249 | 91.228.7.250;www.externat-diplom.info;http://www.externat-diplom.info/samara.php;суд;2-4032/13;2013-12-27
+89.184.75.58 | 89.184.75.91;www.externat-diplom.ru;http://www.externat-diplom.ru/;суд;33-15155/2013;2013-07-16
 104.28.8.99 | 104.28.9.99;www.extraslot.com;http://www.extraslot.com/;суд;2-1908/14;2014-03-13
 104.28.14.43 | 104.28.15.43;www.extraslot.info;http://www.extraslot.info/onlain_casino_na_dengi;суд;2-10511/2014;2014-10-27
 31.192.116.182;www.extremetube.com;http://www.extremetube.com/video/animated-cutie-doing-blowjob-and-enjoying-anal-35701;Роскомнадзор;45399-URL-on;2014-12-26
@@ -8585,7 +8585,7 @@ Updated: 2015-04-01 07:06:00 +0000
 104.28.10.48 | 104.28.11.48;www.dosug.co.uk;https://www.dosug.co.uk;суд;2-5982/2014;2014-08-18
 104.27.140.16 | 104.27.141.16;www.dosug.cz;https://www.dosug.cz/ru/d;суд;2-4854/14;2014-12-15
 104.28.8.104 | 104.28.9.104;www.dosug.so;https://www.dosug.so;суд;2-5982/2014;2014-08-18
-94.125.59.4;www.eurocasino.com;https://www.eurocasino.com;суд;2-1687/2013;2013-05-23
+94.125.59.100 | 94.125.59.4;www.eurocasino.com;https://www.eurocasino.com;суд;2-1687/2013;2013-05-23
 77.120.115.178 | 77.120.115.184;www.ex.ua;https://www.ex.ua/get/111836119;суд;2-3046/14;2014-07-09
 195.137.167.2 | 195.137.167.3;www.favbet.com;https://www.favbet.com/;суд;2-946/13;2013-06-10
 85.25.13.91;www.fortus-casino.com;https://www.fortus-casino.com/;суд;2-1687/2013;2013-05-23
