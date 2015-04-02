@@ -1,4 +1,4 @@
-Updated: 2015-04-02 11:10:00 +0000
+Updated: 2015-04-02 12:00:00 +0000
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/;Роскомнадзор;54485-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/1.html;Роскомнадзор;54483-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/12.html;Роскомнадзор;54486-URL-on;2015-03-23
@@ -1334,7 +1334,7 @@ Updated: 2015-04-02 11:10:00 +0000
 91.208.154.151;forum.natali.ua;http://forum.natali.ua/viewtopic.php?t=4273;Роспотребнадзор;1625;2013-03-31
 193.9.28.18;forum.nikopol.in;http://forum.nikopol.in/yumor/30-6769/;Роспотребнадзор;4818;2014-08-13
 188.191.144.73;forum.ostrov.net.ua;http://forum.ostrov.net.ua/showthread.php?t=1230;Роспотребнадзор;1315;2013-03-16
-198.144.121.147;forum.shamanika.biz;http://forum.shamanika.biz/lofiversion/index.php/t469.html;ФСКН;2/1/11-18732;2014-03-24
+198.144.121.147 | 198.144.121.209;forum.shamanika.biz;http://forum.shamanika.biz/lofiversion/index.php/t469.html;ФСКН;2/1/11-18732;2014-03-24
 104.28.20.68 | 104.28.21.68;forum.ua-legal.com;http://forum.ua-legal.com/;ФСКН;2/1/11-11848;2013-09-26
 104.28.20.68 | 104.28.21.68;forum.ua-legal.com;http://forum.ua-legal.com/index.php;ФСКН;2/1/11-30110;2014-12-01
 104.28.20.68 | 104.28.21.68;forum.ua-legal.com;http://forum.ua-legal.com/reaktivi.php;ФСКН;2/1/11-33808;2015-03-10
@@ -4563,7 +4563,7 @@ Updated: 2015-04-02 11:10:00 +0000
 91.237.250.92 | 91.237.250.94 | 93.115.95.10 | 93.115.95.13;rusdosug.com;http://rusdosug.com;суд;2-4196/14;2014-08-07
 104.28.14.71 | 104.28.15.71;rusensi.biz;http://rusensi.biz/;ФСКН;2/1/11-34986;2015-03-25
 37.46.194.148;rusensi.net;http://rusensi.net/;суд;2-2209/2014;2014-11-12
-104.28.0.52 | 104.28.1.52;rusensi.org;http://rusensi.org/product/auto-white-widow-3autofem/;ФСКН;2/1/11-17231;2014-02-19
+37.46.194.148;rusensi.org;http://rusensi.org/product/auto-white-widow-3autofem/;ФСКН;2/1/11-17231;2014-02-19
 74.81.186.35;rushplay.net;http://rushplay.net/;суд;2-1590/2014;2014-02-21
 208.93.0.190;russ5.livejournal.com;http://russ5.livejournal.com/225187.html;Генпрокуратура;65/3-71-2014;2014-10-10
 95.131.233.85;russian.betredkings.com;http://russian.betredkings.com/;суд;2-946/13;2013-06-10
@@ -4614,11 +4614,11 @@ Updated: 2015-04-02 11:10:00 +0000
 104.28.4.61 | 104.28.5.61;semena-konoplya.com;http://semena-konoplya.com/katalog/regulyarnye_semena_konopli;ФСКН;2/1/11-30972;2014-12-26
 104.28.4.61 | 104.28.5.61;semena-konoplya.com;http://semena-konoplya.com/katalog/semena_konopli_dlya_zakrytogo_grunta;суд;2-695/2014;2014-12-12
 104.28.4.61 | 104.28.5.61;semena-konoplya.com;http://semena-konoplya.com/katalog/semena_konopli_joint_doctor;ФСКН;2/1/11-30973;2014-12-25
-104.28.18.11 | 104.28.19.11;semenarnia.com;http://semenarnia.com/;ФСКН;2/1/11-13648;2013-11-20
-104.28.18.11 | 104.28.19.11;semenarnia.com;http://semenarnia.com/product/White_Widow_Pyramid.html;ФСКН;2/1/11-14431;2013-12-12
+188.166.55.45;semenarnia.com;http://semenarnia.com/;ФСКН;2/1/11-13648;2013-11-20
+188.166.55.45;semenarnia.com;http://semenarnia.com/product/White_Widow_Pyramid.html;ФСКН;2/1/11-14431;2013-12-12
 104.28.26.110 | 104.28.27.110;semenarnia.net;http://semenarnia.net/;ФСКН;2/1/11-27670;2014-10-15
 104.28.26.110 | 104.28.27.110;semenarnia.net;http://semenarnia.net/;суд;2-2829/2014;2014-11-13
-104.28.18.38 | 104.28.19.38 | 108.162.200.197 | 141.101.127.196;semenarnia.org;http://semenarnia.org/;ФСКН;2/1/11-26396;2014-09-25
+104.28.18.38 | 104.28.19.38 | 108.162.200.197 | 141.101.127.196 | 188.166.55.45;semenarnia.org;http://semenarnia.org/;ФСКН;2/1/11-26396;2014-09-25
 104.28.30.121 | 104.28.31.121;semenarnia.ws;http://semenarnia.ws/product/white_widow_dp.html;ФСКН;2/1/11-31083;2014-12-31
 104.28.26.51 | 104.28.27.51;semensis.com;http://semensis.com/;суд;2-111(2015);2015-02-03
 104.28.26.51 | 104.28.27.51;semensis.com;http://semensis.com/index.php;суд;2-2337/2014;2014-11-17
@@ -4945,7 +4945,7 @@ Updated: 2015-04-02 11:10:00 +0000
 209.51.129.210;spice.net.in;http://spice.net.in/;ФСКН;2/1/11-28530;2014-10-31
 104.28.4.118 | 104.28.5.118;spice23.info;http://spice23.info;ФСКН;2/1/11-31575;2015-01-15
 104.28.4.118 | 104.28.5.118;spice23.info;http://spice23.info/pricelist.html;ФСКН;2/1/11-31880;2015-01-22
-104.28.2.108 | 104.28.3.108;spice30.info;http://spice30.info/;ФСКН;2/1/11-26226;2014-09-17
+104.28.2.108 | 104.28.3.108 | 199.27.134.178 | 199.27.135.178;spice30.info;http://spice30.info/;ФСКН;2/1/11-26226;2014-09-17
 104.28.2.69 | 104.28.3.69;spice36.info;http://spice36.info/;ФСКН;2/1/11-31974;2015-01-23
 104.28.2.69 | 104.28.3.69;spice36.info;http://spice36.info/prices.html;ФСКН;2/1/11-32412;2015-02-04
 104.28.2.67 | 104.28.3.67;spice55.biz;http://spice55.biz/;ФСКН;2/1/11-33369;2015-02-26
@@ -6042,7 +6042,7 @@ Updated: 2015-04-02 11:10:00 +0000
 72.249.145.17;wildcritters.ws;http://wildcritters.ws/post/show/83152/balls-blonde_hair-blue_eyes-cain-creampie-cum-cum_;Роскомнадзор;32149-URL-on;2014-08-11
 37.59.9.162;willithurt.com;http://willithurt.com/;Роскомнадзор;33433-URL-on;2014-08-22
 78.140.149.101 | 78.140.149.102;winazart.com;http://winazart.com/;суд;2-752;2014-09-24
-91.224.160.150;wiol.biz;;ФСКН;2/1/11-32929;2015-02-16
+185.59.103.2;wiol.biz;;ФСКН;2/1/11-32929;2015-02-16
 95.211.205.53 | 95.211.225.107;wm-bingo.com;http://wm-bingo.com/;суд;2-946/13;2013-06-10
 91.224.160.109;wm-seller.com;http://wm-seller.com/kupit-spice-ulyanovsk/;ФСКН;2/1/11-31917;2015-01-22
 104.28.14.84 | 104.28.15.84;wmc-online.net;http://wmc-online.net;суд;2-10572/2014;2014-10-15
@@ -6265,9 +6265,9 @@ Updated: 2015-04-02 11:10:00 +0000
 31.7.5.125;www.buydutchseeds.com;http://www.buydutchseeds.com/ru/;ФСКН;2/1/11-14084;2013-12-01
 184.170.252.36;www.buylegalrc.eu;http://www.buylegalrc.eu/index.php;ФСКН;2/1/11-31789;2015-01-21
 216.108.234.35;www.buysteriodspowders.com;http://www.buysteriodspowders.com/;ФСКН;2/1/11-22864;2014-06-30
-167.114.41.197 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/%D0%9B%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BE%D1%82-%D0%A8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.7720/#post-78786;ФСКН;2/1/11-28722;2014-11-05
-167.114.41.197 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%BC%D0%B8%D0%BA%D1%81-%D0%B2-%D0%B4%D0%BE%D0%BC-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85-%D0%B2%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE.3973/;ФСКН;2/1/11-27642;2014-10-15
-167.114.41.197 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/Рецепт-приготовление-спайса.1100/;ФСКН;2/1/11-21069;2014-05-13
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/%D0%9B%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BE%D1%82-%D0%A8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.7720/#post-78786;ФСКН;2/1/11-28722;2014-11-05
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%BC%D0%B8%D0%BA%D1%81-%D0%B2-%D0%B4%D0%BE%D0%BC-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85-%D0%B2%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE.3973/;ФСКН;2/1/11-27642;2014-10-15
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.by.legalizer.info;http://www.by.legalizer.info/threads/Рецепт-приготовление-спайса.1100/;ФСКН;2/1/11-21069;2014-05-13
 95.211.229.54;www.canabyseeds.com;http://www.canabyseeds.com/articles.php?article_id=175;ФСКН;2/1/11-20875;2014-05-12
 95.211.229.54;www.canabyseeds.com;http://www.canabyseeds.com/articles.php?article_id=246;ФСКН;2/1/11-23501;2014-07-10
 95.211.229.54;www.canabyseeds.com;http://www.canabyseeds.com/articles.php?article_id=80;ФСКН;2/1/11-25660;2014-09-01
@@ -7319,7 +7319,7 @@ Updated: 2015-04-02 11:10:00 +0000
 216.12.205.4;www.rang.com.ua;http://www.rang.com.ua/miks.kiev.ua;ФСКН;2/1/11-24364;2014-07-30
 104.28.28.109 | 104.28.29.109 | 108.162.192.57 | 108.162.193.57;www.rasta-legal.com;http://www.rasta-legal.com/;ФСКН;2/1/11-30993;2014-12-27
 93.158.201.169;www.rastafon.com;http://www.rastafon.com/;ФСКН;2/1/11-13199;2013-11-07
-108.162.194.132 | 108.162.195.132 | 141.101.118.102 | 141.101.118.103;www.rastaman.biz;http://www.rastaman.biz/;ФСКН;2/1/11-25181;2014-08-20
+108.162.194.132 | 108.162.195.132 | 141.101.118.102 | 141.101.118.103 | 141.101.118.146 | 141.101.118.147;www.rastaman.biz;http://www.rastaman.biz/;ФСКН;2/1/11-25181;2014-08-20
 66.96.161.146;www.rastamantales.com;http://www.rastamantales.com/skazki/content/19991124-malenkie-hitrosti;ФСКН;2/1/11-33488;2015-02-27
 209.239.175.94;www.raunchytwinks.com;http://www.raunchytwinks.com/st/niches/tube.php;Роскомнадзор;16610-URL-on;2013-12-26
 91.224.160.114;www.rc-chemlab.info;http://www.rc-chemlab.info/;ФСКН;2/1/11-23689;2014-07-15
@@ -7449,7 +7449,7 @@ Updated: 2015-04-02 11:10:00 +0000
 184.168.145.24;www.sh-chem.com;http://www.sh-chem.com/index.php?m=content&c=index&a=lists&catid=22;ФСКН;2/1/11-25692;2014-09-02
 104.28.2.49 | 104.28.3.49 | 108.162.194.44 | 108.162.195.44;www.shabakataljahad.com;http://www.shabakataljahad.com/vb/showthread.php?p=99328;Генпрокуратура;27-27-2014/Ид4065-14;2014-12-04
 198.144.121.209;www.shamanika.biz;http://www.shamanika.biz/blog/61/;ФСКН;2/1/11-35091;2015-03-27
-198.144.121.147;www.shamanika.biz;http://www.shamanika.biz/category/psychoactive-entheogen/;ФСКН;2/1/11-12385;2013-10-14
+198.144.121.147 | 198.144.121.209;www.shamanika.biz;http://www.shamanika.biz/category/psychoactive-entheogen/;ФСКН;2/1/11-12385;2013-10-14
 83.98.167.90;www.shayanashop.com;http://www.shayanashop.com/;ФСКН;2/1/11-15194;2013-12-30
 61.64.61.161;www.sheverchem.com;http://www.sheverchem.com/sdp/402714/4/main-2151375/0/Home.html;ФСКН;2/1/11-22869;2014-06-30
 113.10.178.201;www.shijinchem.com;http://www.shijinchem.com/index.asp;ФСКН;2/1/11-22889;2014-06-30
@@ -7677,10 +7677,10 @@ Updated: 2015-04-02 11:10:00 +0000
 88.80.185.83;www.twitlonger.com;http://www.twitlonger.com/show/n_1sjc3ge;Генпрокуратура;27-27-2014/Ид4251-14;2014-12-22
 174.139.13.34;www.tybio.biz;http://www.tybio.biz/ru_index.asp;ФСКН;2/1/11-25553;2014-08-29
 174.139.13.34;www.tybioruss.com;http://www.tybioruss.com/ruproduct/;ФСКН;2/1/11-31179;2015-01-04
-167.114.41.197 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/;ФСКН;2/1/11-26815;2014-10-01
-167.114.41.197 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/%D0%92%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%86%D0%B5%D0%BD%D1%8B-%D0%9A%D0%B8%D0%B5%D0%B2-%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2-%D0%B2%D1%81%D1%8F-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.3980/;ФСКН;2/1/11-26814;2014-10-01
-167.114.41.197 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/%D0%9C%D0%B8%D0%BA%D1%81%D1%8B-%D0%B8-%D1%81%D0%BE%D0%BB%D0%B8-%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8-%D0%BF%D0%BE-%D0%9A%D0%B8%D0%B5%D0%B2%D1%83.5828/;ФСКН;2/1/11-26813;2014-10-01
-167.114.41.197 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/spice-kr-%D1%83%D0%B1%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BA%D1%81-%D0%B8-%D1%81%D0%BE%D0%BB%D0%B8-%D0%BF%D0%BE-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5.9239/;ФСКН;2/1/11-26960;2014-10-03
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/;ФСКН;2/1/11-26815;2014-10-01
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/%D0%92%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D1%86%D0%B5%D0%BD%D1%8B-%D0%9A%D0%B8%D0%B5%D0%B2-%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2-%D0%B2%D1%81%D1%8F-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.3980/;ФСКН;2/1/11-26814;2014-10-01
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/%D0%9C%D0%B8%D0%BA%D1%81%D1%8B-%D0%B8-%D1%81%D0%BE%D0%BB%D0%B8-%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8-%D0%BF%D0%BE-%D0%9A%D0%B8%D0%B5%D0%B2%D1%83.5828/;ФСКН;2/1/11-26813;2014-10-01
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;www.ua.legalizer.info;http://www.ua.legalizer.info/threads/spice-kr-%D1%83%D0%B1%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BA%D1%81-%D0%B8-%D1%81%D0%BE%D0%BB%D0%B8-%D0%BF%D0%BE-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5.9239/;ФСКН;2/1/11-26960;2014-10-03
 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.14 | 23.254.167.175;www.udarsmes.com;http://www.udarsmes.com;суд;2-352/15;2015-01-26
 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.14 | 23.254.167.175;www.udarsmes.com;http://www.udarsmes.com/;ФСКН;2/1/11-30207;2014-12-04
 162.247.12.157;www.ufa-znakomstva.cz;http://www.ufa-znakomstva.cz;суд;2-3753/2014;2014-09-04
@@ -8584,9 +8584,9 @@ Updated: 2015-04-02 11:10:00 +0000
 104.28.24.60 | 104.28.25.60 | 198.41.206.153 | 198.41.207.153;swimpool.cc;https://swimpool.cc/;ФСКН;2/1/11-30352;2014-12-10
 23.229.244.201 | 87.118.104.55;tebe-diplom.com;https://tebe-diplom.com/;суд;2-2122/2014;2014-06-10
 94.242.203.110;teonanakatl.com;https://teonanakatl.com/volshebnie-gribi;ФСКН;2/1/11-20582;2014-05-05
-167.114.41.197 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info;ФСКН;2/1/11-30312;2014-12-10
-167.114.41.197 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info/threads/Как-вырастить-коноплю-на-улице.1293/;ФСКН;2/1/11-31694;2015-01-19
-167.114.41.197 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info/threads/Как-делать-гашиш.1309/;ФСКН;2/1/11-29583;2014-11-20
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info;ФСКН;2/1/11-30312;2014-12-10
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info/threads/Как-вырастить-коноплю-на-улице.1293/;ФСКН;2/1/11-31694;2015-01-19
+167.114.41.197 | 178.17.170.144 | 186.2.168.18;ua.legalizer.info;https://ua.legalizer.info/threads/Как-делать-гашиш.1309/;ФСКН;2/1/11-29583;2014-11-20
 108.163.240.143;ufalux.ru;https://ufalux.ru;суд;2-9882/2014;2014-11-05
 188.165.64.40 | 5.196.178.228;uhhim.com;https://uhhim.com/;ФСКН;2/1/11-28658;2014-11-05
 91.205.6.156;v7ved.ru;https://v7ved.ru/;Генпрокуратура;27-31-2015/Ид888-15;2015-03-19
