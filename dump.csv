@@ -1,4 +1,4 @@
-Updated: 2015-04-02 19:19:00 +0000
+Updated: 2015-04-03 06:00:00 +0000
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/;Роскомнадзор;54485-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/1.html;Роскомнадзор;54483-URL-on;2015-03-23
 104.31.86.95 | 104.31.87.95;0chan.cc;http://0chan.cc/h/res/12.html;Роскомнадзор;54486-URL-on;2015-03-23
@@ -401,10 +401,10 @@ Updated: 2015-04-02 19:19:00 +0000
 193.0.61.38;banderivec.org.ua;http://banderivec.org.ua;Генпрокуратура;27-31-2015/Ид831-15 ;2015-03-12
 212.83.162.25;banderivets.org.ua;http://banderivets.org.ua/;Генпрокуратура;27-31-2015/Ид831-15 ;2015-03-12
 212.83.162.25;banderivets.org.ua;http://banderivets.org.ua/;суд;2-22;2015-01-15
-178.255.144.35 | 82.94.249.234;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org;суд;2-3286/2014;2014-07-25
+178.255.144.35 | 82.94.249.234 | 94.23.50.208;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org;суд;2-3286/2014;2014-07-25
 178.255.144.35 | 82.221.99.153 | 82.94.249.234 | 94.23.50.208;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org/post/2013/12/02/%D0%B2%D0%B0%D0%BD%D1%8F-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0;суд;2-3286/2014;2014-07-25
-178.255.144.35 | 82.94.249.234;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org/post/2013/12/02/коктейлем-молотова-по-имиджу-президе;суд;2-3286/2014;2014-07-25
-178.255.144.35 | 82.94.249.234;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org/post/2013/12/02/он-круче-чем-мы-таких-как-спирин-боятс;суд;2-4161/2014;2014-10-03
+178.255.144.35 | 82.94.249.234 | 94.23.50.208;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org/post/2013/12/02/коктейлем-молотова-по-имиджу-президе;суд;2-3286/2014;2014-07-25
+178.255.144.35 | 82.94.249.234 | 94.23.50.208;bannedavtonom.noblogs.org;http://bannedavtonom.noblogs.org/post/2013/12/02/он-круче-чем-мы-таких-как-спирин-боятс;суд;2-4161/2014;2014-10-03
 104.28.12.100 | 104.28.13.100;bareworld.net;http://bareworld.net/;Роскомнадзор;45353-URL-on;2014-12-24
 190.115.24.90;barnaul.prostitutki.com;http://barnaul.prostitutki.com/;суд;2-4200/14;2014-08-07
 195.24.136.6;barug.net;http://barug.net/c198-23292.html;ФСКН;2/1/11-30440;2014-12-12
@@ -1021,7 +1021,7 @@ Updated: 2015-04-02 19:19:00 +0000
 83.125.22.205;diphelp.com;http://diphelp.com/;суд;33-15155/2013;2013-07-16
 212.224.112.103 | 212.224.113.71;dipkupi.com;http://dipkupi.com/;суд;2-1271/2014;2014-09-22
 192.186.233.232 | 23.229.244.201;diplom-77.ru;http://diplom-77.ru/;суд;33-15155/2013;2013-07-16
-192.186.233.232;diplom-77.ru;http://diplom-77.ru/index.php?page=diplom-samara;суд;2-4036/13;2013-12-25
+192.186.233.232 | 23.229.244.201;diplom-77.ru;http://diplom-77.ru/index.php?page=diplom-samara;суд;2-4036/13;2013-12-25
 216.246.23.12;diplom-attestat.net;http://diplom-attestat.net/samara.html;суд;2-4056/13;2013-12-25
 78.140.140.202;diplom-garant.com;http://diplom-garant.com/;суд;2-1322/2014;2014-09-22
 78.140.140.202 | 78.140.185.161;diplom-garant.com;http://diplom-garant.com/diploma/250;суд;2-1899/2014;2014-05-21
@@ -3249,7 +3249,7 @@ Updated: 2015-04-02 19:19:00 +0000
 62.75.207.142 | 62.75.207.152 | 62.75.237.254;million-slot-club.com;http://million-slot-club.com/index;суд;2-248/2015;2015-02-17
 176.103.49.220;millionb.com;http://millionb.com/;суд;2-6167/32-2014;2014-07-31
 80.82.64.80;mini.free-teen-pussy.com;http://mini.free-teen-pussy.com/;Роскомнадзор;22200-URL-on;2014-03-26
-162.249.125.170;minjust.net;http://minjust.net;суд;2-2723/12;2012-08-13
+162.249.125.170 | 173.193.105.241;minjust.net;http://minjust.net;суд;2-2723/12;2012-08-13
 93.158.218.136;miove.tv;http://miove.tv/video/porno-video-mama-uchitelnica.html;Роскомнадзор;51194-URL-on;2015-02-26
 66.96.147.114;mir-kasino.ru;http://mir-kasino.ru/;суд;2-2530/14;2014-07-29
 104.24.106.186 | 104.24.107.186;mirlegala.biz;http://mirlegala.biz;ФСКН;2/1/11-33387;2015-02-26
