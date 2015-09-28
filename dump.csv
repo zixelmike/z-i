@@ -1,4 +1,4 @@
-Updated: 2015-09-28 05:12:00 +0000
+Updated: 2015-09-28 11:00:00 +0000
 149.202.99.111;cserv1.net;Newcamd525://cserv1.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
 149.202.99.210;cserv10.net;Newcamd525://cserv10.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
 149.202.99.209;cserv11.net;Newcamd525://cserv11.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
@@ -746,6 +746,7 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.28.11 | 104.28.29.11;besttorrents.org;http://besttorrents.org/thriller/2849-kto-ya-who-am-i-kein-system-ist-sicher-2014-hdrip.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0256/2015;2015-08-14
 104.28.28.11 | 104.28.29.11;besttorrents.org;http://besttorrents.org/tv-shows/2772-nastoyaschiy-detektiv-true-detective-02h01-03-iz-08-2015.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0147/2015;2015-06-26
 104.28.4.27 | 104.28.5.27 | 188.42.231.166 | 78.140.173.214;bestvulkan.com;http://bestvulkan.com/;суд;2-4111/14;2014-06-17
+88.208.27.199;bestvulkan.net;http://bestvulkan.net/;суд;2-223/15;2015-07-15
 104.28.22.70 | 104.28.23.70 | 188.42.231.182 | 78.140.174.46;bestvulkan.org;http://bestvulkan.org;суд;2-730/2015;2015-02-19
 84.20.200.60 | 84.20.200.69;beta.betfair.com;http://beta.betfair.com;суд;2-1687/2013;2013-05-23
 104.28.30.242 | 104.28.31.242;betbureau.ru;http://betbureau.ru/cat6/jwh-250.html;ФСКН;2/1/11-38340;2015-05-27
@@ -1388,12 +1389,14 @@ Updated: 2015-09-28 05:12:00 +0000
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/hobbies_and_leisure/265556/;ФСКН;2/1/11-33364;2015-02-26
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/hobbies_and_leisure/268699/;ФСКН;2/1/11-35161;2015-03-27
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/hobbies_and_leisure/273964/;ФСКН;2/1/11-38449;2015-05-28
+64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/hobbies_and_leisure/283360/;ФСКН;2/1/11-44186;2015-09-21
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/hobbies_and_leisure/283363/;ФСКН;2/1/11-43254;2015-09-02
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/lostfound/283362/;ФСКН;2/1/11-43011;2015-08-28
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/massage/265559/;ФСКН;2/1/11-33332;2015-02-25
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/miscellaneous/259793/;ФСКН;2/1/11-30628;2014-12-18
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/miscellaneous/283368/;ФСКН;2/1/11-43087;2015-08-31
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/miscellaneous/283466/;ФСКН;2/1/11-43086;2015-08-31
+64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/others/268699/;ФСКН;2/1/11-44180;2015-09-21
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/services/265558/;ФСКН;2/1/11-35364;2015-04-02
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/sports/283367/;ФСКН;2/1/11-44097;2015-09-18
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/toys_games_and_models/283366/;ФСКН;2/1/11-43069;2015-08-31
@@ -1432,6 +1435,7 @@ Updated: 2015-09-28 05:12:00 +0000
 64.34.89.155;classifieds.russianchicago.com;http://classifieds.russianchicago.com/rus/boston/misc1/268542/;ФСКН;2/1/11-37689;2015-05-15
 64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/boston/business_services/265558/;ФСКН;2/1/11-36530;2015-04-22
 64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/boston/business_services/265602/;ФСКН;2/1/11-35228;2015-03-31
+64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/boston/business_services/274823/;ФСКН;2/1/11-44196;2015-09-21
 64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/ma/hobbies_and_leisure/265556/;ФСКН;2/1/11-34443;2015-03-17
 64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/usa/hobbies_and_leisure/265556/;ФСКН;2/1/11-33775;2015-03-07
 64.34.89.155;classifieds.russiancleveland.com;http://classifieds.russiancleveland.com/rus/usa/miscellaneous/268283/;ФСКН;2/1/11-34743;2015-03-20
@@ -1858,12 +1862,14 @@ Updated: 2015-09-28 05:12:00 +0000
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/57603;ФСКН;2/1/11-41648;2015-08-06
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/57646;ФСКН;2/1/11-41879;2015-08-10
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/61499;ФСКН;2/1/11-42163;2015-08-13
+185.43.222.97;doskaplus.info;http://doskaplus.info/blok/61504;ФСКН;2/1/11-44163;2015-09-21
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/61592;ФСКН;2/1/11-41897;2015-08-10
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/61594;ФСКН;2/1/11-41896;2015-08-10
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/61792;ФСКН;2/1/11-41871;2015-08-10
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/62817;ФСКН;2/1/11-44149;2015-09-18
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/63135;ФСКН;2/1/11-43223;2015-09-02
 185.43.222.97;doskaplus.info;http://doskaplus.info/blok/63480;ФСКН;2/1/11-43198;2015-09-01
+185.43.222.97;doskaplus.info;http://doskaplus.info/blok/63860;ФСКН;2/1/11-44191;2015-09-21
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_486329.htm;ФСКН;2/1/11-36682;2015-04-27
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_566710.htm;ФСКН;2/1/11-38993;2015-06-05
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_626449.htm;ФСКН;2/1/11-42182;2015-08-14
@@ -1886,6 +1892,7 @@ Updated: 2015-09-28 05:12:00 +0000
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_701763.htm;ФСКН;2/1/11-41303;2015-07-29
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_702485.htm;ФСКН;2/1/11-41563;2015-08-05
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_705186.htm;ФСКН;2/1/11-43686;2015-09-09
+82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_705187.htm;ФСКН;2/1/11-44190;2015-09-21
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_705204.htm;ФСКН;2/1/11-42453;2015-08-19
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_706174.htm;ФСКН;2/1/11-42953;2015-08-27
 82.118.18.220;doskasfoto.ru;http://doskasfoto.ru/bbs_706182.htm;ФСКН;2/1/11-43339;2015-09-04
@@ -1996,6 +2003,7 @@ Updated: 2015-09-28 05:12:00 +0000
 37.48.120.102;ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net;http://ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net/brands/cristalius.php;ФСКН;2/1/11-42092;2015-08-13
 37.48.120.102;ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net;http://ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net/poroshki/3md-skorost.php;ФСКН;2/1/11-41499;2015-08-04
 37.48.120.102;ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net;http://ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net/poroshki/bluz-eyfor.php;ФСКН;2/1/11-42192;2015-08-14
+37.48.120.102;ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net;http://ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net/regions/kupit-v-izhevske.php;ФСКН;2/1/11-44183;2015-09-21
 37.48.120.102;ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net;http://ekstazi-kruglye-yeshki-eksta-eks-ti-si-tapki-bubly-pilsy-eyfor.net/smesi/mix-h1t.php#;ФСКН;2/1/11-41971;2015-08-11
 85.25.20.46;elanci.telkniga.com;http://elanci.telkniga.com/;суд;2-799-14;2014-04-30
 162.159.242.248 | 162.159.243.248;eldoclub.com;http://eldoclub.com;суд;2-1496/2015;2015-03-11
@@ -2177,6 +2185,7 @@ Updated: 2015-09-28 05:12:00 +0000
 185.36.100.174;failovik.com;http://failovik.com/serial/3692-skachat-2-sezon-molodezhka.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0131/2015;2015-06-24
 176.58.100.180;fame-girls.net;http://fame-girls.net/;Роскомнадзор;71177-URL-on;2015-07-31
 104.28.4.70 | 104.28.5.70;family-naturism.com;http://family-naturism.com/;Роскомнадзор;66825-URL-on;2015-06-26
+74.125.196.132;familynudists.blogspot.ru;http://familynudists.blogspot.ru/?zx=72022c87d4e84fb3;Роскомнадзор;78357-URL-on;2015-09-16
 217.12.207.216;fant-si.ru;http://fant-si.ru/409-molodezhka-2-sezon-2014.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0131/2015;2015-06-24
 209.159.152.100;fantasiamodel.com;http://fantasiamodel.com/top-fm.html?61;Роскомнадзор;28844-URL-on;2014-06-30
 31.220.45.42;fantastika.biz;http://fantastika.biz;суд;2-2320/15;2015-07-21
@@ -2781,6 +2790,7 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.12.60 | 104.28.13.60;gribo4ek.info;http://gribo4ek.info/forum/;ФСКН;2/1/11-2359;2013-02-07
 104.28.10.32 | 104.28.11.32;grinvich.biz;http://grinvich.biz;ФСКН;2/1/11-44103;2015-09-18
 61.115.126.48;grotty-monday.com;http://grotty-monday.com/9878.html;Роскомнадзор;62952-URL-on;2015-05-26
+77.120.121.55;grow.yolins.com;http://grow.yolins.com/index.php?id=69&item=91988&mode=1&lang=ru&region=114&page_sites=2;ФСКН;2/1/11-44178;2015-09-21
 77.120.121.55;grow.yolins.com;http://grow.yolins.com/index.php?id=69&item=91988&mode=1&lang=ru&region=114&page_sites=59;ФСКН;2/1/11-40184;2015-06-29
 104.28.0.8 | 104.28.1.8 | 108.162.196.56 | 108.162.197.56;growblog.pro;http://growblog.pro/;ФСКН;2/1/11-16186;2014-01-22
 104.28.0.8 | 104.28.1.8 | 108.162.196.56 | 108.162.197.56;growblog.pro;http://growblog.pro/info/52-osnovy-gidroponiki-nachinayuschim.html;ФСКН;2/1/11-11382;2013-09-15
@@ -2853,6 +2863,7 @@ Updated: 2015-09-28 05:12:00 +0000
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/uslugi/internet/reklama_v_internet/9560.html;ФСКН;2/1/11-40507;2015-07-07
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/uslugi/internet/sozdanie_saytov/9553.html;ФСКН;2/1/11-40406;2015-07-03
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/uslugi/prochee/;ФСКН;2/1/11-42776;2015-08-25
+95.175.43.103;gruzia4u.info;http://gruzia4u.info/uslugi/reklama/9552.html;ФСКН;2/1/11-44165;2015-09-21
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/uslugi/zdorove/medicinskoe_strahovanie/9583.html;ФСКН;2/1/11-40854;2015-07-16
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/yelektronnaya_tehnika/bytovaya_tehnika/drugoe/9705.html;ФСКН;2/1/11-36671;2015-04-24
 80.244.165.66 | 95.175.43.103;gruzia4u.info;http://gruzia4u.info/yelektronnaya_tehnika/bytovaya_tehnika/pylesosy/9605.html;ФСКН;2/1/11-40677;2015-07-13
@@ -2931,6 +2942,7 @@ Updated: 2015-09-28 05:12:00 +0000
 192.254.235.42;hentaidib.net;http://hentaidib.net/wp-content/uploads/2010/12/Huge-and-Extreme-Insertions-into-Loli-Hentai-Girls-With-Tentacles-Toys-Dicks-Monsters-155.jpg;Роскомнадзор;13951-URL-on;2013-11-05
 192.254.235.42;hentaidib.net;http://hentaidib.net/wp-content/uploads/2010/12/Huge-and-Extreme-Insertions-into-Loli-Hentai-Girls-With-Tentacles-Toys-Dicks-Monsters-74.jpg;Роскомнадзор;13944-URL-on;2013-11-05
 104.28.20.79 | 104.28.21.79;hentaifromhell.org;http://hentaifromhell.org/gallery1/[Kawady%20Max]%20Sexually%20Tortured%20Girls%20Ch.%209%20[English]%20=StatisticallyNP=.html;Роскомнадзор;66813-URL-on;2015-06-26
+74.125.196.132;hentailesbian.blogspot.ru;http://hentailesbian.blogspot.ru/;Роскомнадзор;78361-URL-on;2015-09-16
 31.220.2.200;hentailolico.com;http://hentailolico.com/;Роскомнадзор;62949-URL-on;2015-05-26
 31.220.2.200;hentailolico.com;http://hentailolico.com/lime-mint-mokuyoubi-21ji-nanami-chan-thursday-2100-nanami-chan-english-havocangel;Роскомнадзор;59872-URL-on;2015-04-30
 217.12.209.148;hentaime.ru;http://hentaime.ru/;Роскомнадзор;30742-URL-on;2014-07-23
@@ -2983,6 +2995,7 @@ Updated: 2015-09-28 05:12:00 +0000
 91.224.161.196;hkhats.ru;http://hkhats.ru/cat5/trava-spays-1.html;ФСКН;2/1/11-43536;2015-09-07
 91.224.161.196;hkhats.ru;http://hkhats.ru/cat5/tsena-persil-poroshok.html;ФСКН;2/1/11-43505;2015-09-07
 91.224.161.196;hkhats.ru;http://hkhats.ru/cat7/kuritelnie-tyumen-smesi.html;ФСКН;2/1/11-43292;2015-09-03
+64.71.74.176;hmongzone.com;http://hmongzone.com/video/dk9ETkVqUEEwZkRz;Роскомнадзор;79176-URL-on;2015-09-21
 58.80.21.137;hobomomo.com;http://hobomomo.com/category3/cat215/post-617/;Роскомнадзор;64964-URL-on;2015-06-10
 178.20.155.130;hohlandseeds.com;http://hohlandseeds.com/;ФСКН;2/1/11-14130;2013-12-02
 85.17.207.75;hollandseeds.biz;http://hollandseeds.biz/home;суд;2-123/2015;2015-03-03
@@ -4885,6 +4898,7 @@ Updated: 2015-09-28 05:12:00 +0000
 195.128.17.147 | 212.40.42.154;lib.co.ua;http://lib.co.ua/edu/unknown/bombaizhozmaga.jsp;суд;2-1476/2015;2015-04-30
 195.128.17.147 | 212.40.42.154;lib.co.ua;http://lib.co.ua/politic/istarhovvladimir/udarrusskihbogov.jsp;суд;2-3053/14;2014-08-26
 195.128.17.147 | 212.40.42.154;lib.misto.kiev.ua;http://lib.misto.kiev.ua/SEXSTORY/SluchayvCHehii.plain.txt;Роскомнадзор;79084-URL-on;2015-09-18
+94.102.63.20;lib.mn;http://lib.mn/blog/konstantin_rodzaevskij/187829.html;суд;2-4877/14;2014-09-10
 88.198.41.203;libatriam.net;http://libatriam.net/read/910859/0/;суд;2-4313/2014;2014-10-17
 77.87.195.9;library.khpg.org;http://library.khpg.org/files/docs/1403444630.pdf;суд;2-118/2015;2015-07-27
 195.170.168.6 | 195.170.168.7;lickketkthickwalk.blog.com;http://lickketkthickwalk.blog.com/2014/12/10/jwh-122/;ФСКН;2/1/11-30901;2014-12-24
@@ -5847,6 +5861,7 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.6.96 | 104.28.7.96;models.topnn.xyz;http://models.topnn.xyz/;Роскомнадзор;69975-URL-on;2015-07-21
 54.218.24.106 | 54.218.24.118 | 54.218.31.155 | 54.218.31.166 | 54.218.31.75 | 54.244.19.113 | 54.244.28.94 | 54.244.35.195;moeimg.blog133.fc2.com;http://moeimg.blog133.fc2.com/blog-entry-5015.html;Роскомнадзор;34596-URL-on;2014-09-09
 103.30.240.245;moeimg.net;http://moeimg.net/6978.html;Роскомнадзор;76923-URL-on;2015-09-07
+88.208.27.210;moivulkan.com;http://moivulkan.com/;суд;2-225/15;2015-07-15
 162.243.133.63 | 188.166.14.140;mokriishelki.ru;http://mokriishelki.ru/ussr/rossiya/hanty-mansiyskiy-ao/yugorsk;суд;б/н;2014-10-02
 80.244.165.66 | 95.175.43.103;moldova4u.info;http://moldova4u.info/uslugi/otdyh/prochee/10775.html;ФСКН;2/1/11-34093;2015-03-12
 198.41.206.230 | 198.41.207.230;molochnik-rc.biz;http://molochnik-rc.biz/;ФСКН;2/1/11-40853;2015-07-16
@@ -5984,6 +5999,7 @@ Updated: 2015-09-28 05:12:00 +0000
 77.120.102.93;myami.ru;http://myami.ru/community/topic/s/499790;Генпрокуратура;27-31-2015/Ид2224-15;2015-07-14
 91.224.161.196;mychildttracker.com;http://mychildttracker.com/cat2/kompaniya-argo.html;ФСКН;2/1/11-43663;2015-09-09
 91.224.161.196;mychildttracker.com;http://mychildttracker.com/cat3/spays-irkutsk.html;ФСКН;2/1/11-43674;2015-09-09
+37.61.237.217;myislam.today;http://myislam.today;суд;б/н;2015-07-16
 37.61.237.217;myislam.today;http://myislam.today/;Генпрокуратура;27-27-2014/Ид3558-14;2014-10-24
 185.28.22.121 | 185.28.22.24 | 185.28.22.30 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.44 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.130 | 23.254.132.14 | 23.254.132.155 | 23.254.132.93 | 23.254.166.133 | 23.254.167.175 | 23.254.201.113;mylazaret.com;http://mylazaret.com;ФСКН;2/1/11-28598;2014-11-05
 104.27.170.128 | 104.27.171.128;myliloo.ru;http://myliloo.ru;ФСКН;2/1/11-40055;2015-06-25
@@ -5993,6 +6009,7 @@ Updated: 2015-09-28 05:12:00 +0000
 217.26.52.35;myronchems.com;http://myronchems.com/;ФСКН;2/1/11-30923;2014-12-25
 80.82.65.17;myrumix.ru;http://myrumix.ru/filmy/49045-kto-ya-who-am-i-kein-system-ist-sicher-2015-hdrip-bdrip-720p-bdrip-1080p.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0256/2015;2015-08-14
 88.150.240.120;mytv.pw;http://mytv.pw | http://mytv.pw/11873-batalon-2014.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0021/2015;2015-02-19
+88.208.27.215;myvulkan.email;http://myvulkan.email/;суд;2-224/15;2015-07-15
 62.210.105.149 | 62.210.109.89;mz-tracker.net;http://mz-tracker.net/viewtopic.php?f=42&t=63945;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0255/2015;2015-08-14
 62.210.105.149 | 62.210.109.89;mz-tracker.net;http://mz-tracker.net/viewtopic.php?f=46&t=63852;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0256/2015;2015-08-14
 62.210.105.149 | 62.210.109.89;mz-tracker.net;http://mz-tracker.net/viewtopic.php?f=593&t=63329;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0147/2015;2015-06-26
@@ -6111,7 +6128,9 @@ Updated: 2015-09-28 05:12:00 +0000
 37.1.203.145;news-good.ru;http://news-good.ru/;суд;2-132/15;2015-02-19
 91.231.98.95;news-zakon.com;http://news-zakon.com/2010-12-27-04-58-59/87.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0258/2015;2015-08-17
 193.239.68.38;news.bigmir.net;http://news.bigmir.net/world/862950-Boeviki-v-Groznom-opyblikovali-videobrashenie;Генпрокуратура;27-27-2014/Ид4065-14;2014-12-04
+109.207.200.202;news.boyarka.name;http://news.boyarka.name/interesnoe/4867-10-luchshih-prichudlivyh-samoubiystv.html;Роспотребнадзор;6625;2015-09-18
 62.149.1.165;news.spravka.ua;http://news.spravka.ua/kak_sdelat_kuritelnye_smesi_spajs_v_domashnih_uslovijah-12815.html;ФСКН;2/1/11-41065;2015-07-23
+74.125.196.132;newsterrorism.blogspot.co.uk;http://newsterrorism.blogspot.co.uk/2013/11/16-2013_8586.html;суд;2-3072/14;2014-08-07
 5.45.65.57;newtorent.ru;http://newtorent.ru/films/1039-beglec-the-runner-2015.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0255/2015;2015-08-14
 5.45.65.198;newtorr.org;http://newtorr.org/torrent/49f8a1acec038923bcfca32c748ca11f9d2b509d;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0131/2015;2015-06-24
 5.45.65.198;newtorr.org;http://newtorr.org/torrent/bea107ef143ac36a2315a8c06a304f658074c114;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0255/2015;2015-08-14
@@ -6122,6 +6141,7 @@ Updated: 2015-09-28 05:12:00 +0000
 82.221.129.19;night-flower.org;http://night-flower.org/azbuka_terrorizma.html;суд;2-1224/2015;2015-02-17
 217.12.199.208;night-legal-seller.biz;http://night-legal-seller.biz;суд;2-232/2015;2015-03-03
 217.12.199.208;night-legal-seller.biz;http://night-legal-seller.biz/;ФСКН;2/1/11-36462;2015-04-21
+95.211.27.176;night.alkodostavka.com;http://night.alkodostavka.com;суд;2-527(1)/2015;2015-07-30
 95.211.27.176;night.alkodostavka.com;http://night.alkodostavka.com/ufa/alcohol/;суд;2-5572/2015;2015-06-15
 153.122.46.15;niji.pics;http://niji.pics/archives/416;Роскомнадзор;76900-URL-on;2015-09-07
 104.27.186.150 | 104.27.187.150;nijiero-ch.com;http://nijiero-ch.com/%E3%83%AD%E3%83%AA/19101.html;Роскомнадзор;77060-URL-on;2015-09-08
@@ -7338,6 +7358,7 @@ Updated: 2015-09-28 05:12:00 +0000
 188.166.55.45;semyanich.cc;http://semyanich.cc;суд;2-314(2015);2015-03-16
 104.28.24.46 | 104.28.25.46 | 188.166.55.45;semyanich.cc;http://semyanich.cc/product/lsd.html;ФСКН;2/1/11-33396;2015-02-26
 104.28.24.46 | 104.28.25.46 | 188.166.55.45;semyanich.cc;http://semyanich.cc/product/skunk_1_regular1.html;ФСКН;2/1/11-32743;2015-02-12
+104.18.34.85 | 104.18.35.85;semyanich.club;http://semyanich.club/articles/virashivanie_konopli_hobbi_i_nayka;ФСКН;2/1/11-44175;2015-09-21
 188.166.55.45 | 198.41.204.125 | 198.41.205.125;semyanich.co;http://semyanich.co;ФСКН;2/1/11-30984;2014-12-27
 188.166.55.45;semyanich.co;http://semyanich.co/;суд;2-111(2015);2015-02-03
 104.27.164.80 | 104.27.165.80;semyanich.me;http://semyanich.me/;ФСКН;2/1/11-37472;2015-05-13
@@ -7647,6 +7668,7 @@ Updated: 2015-09-28 05:12:00 +0000
 188.226.144.199;song5.ru;http://song5.ru/text/%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82-%D0%BA%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-ss-%D0%B2%D0%B0%D1%80%D1%8F%D0%B3;суд;2-2320/2014;2014-08-05
 188.226.144.199;song5.ru;http://song5.ru/text/%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82-%D0%BA%D1%80%D0%BE%D0%B2%D1%8C-%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B0;суд;2-1179/2014;2014-06-04
 188.226.144.199;song5.ru;http://song5.ru/text/%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82-%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5-%D0%B1%D1%80%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5;суд;2-2215/2014;2014-09-25
+188.226.144.199;song5.ru;http://song5.ru/text/%D0%BB%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4-%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D0%B5%D0%B7-%D0%B3%D1%80%D0%B0%D1%84%D1%8B-%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C;суд;2-542(1)/2015;2015-07-28
 188.226.144.199;song5.ru;http://song5.ru/text/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD-%D0%B1-%D0%B4%D0%B5%D1%82%D0%B8-%D0%B3o%D1%80;суд;2-3628/15;2015-05-07
 188.226.144.199;song5.ru;http://song5.ru/text/210-я-ненавижу-коммунистов;суд;2-2215/2014;2014-09-25
 188.226.144.199;song5.ru;http://song5.ru/text/kolovrat-%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B5%D0%B2%D0%B0%D0%BD%D1%88;суд;2-1180/2014;2014-06-04
@@ -10263,6 +10285,7 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.18.40 | 104.28.19.40;www.hbrowse.com;http://www.hbrowse.com/16595/c00001/00028;Роскомнадзор;73436-URL-on;2015-08-18
 104.28.18.40 | 104.28.19.40;www.hbrowse.com;http://www.hbrowse.com/16595/c00001/00029;Роскомнадзор;73437-URL-on;2015-08-18
 59.188.255.82;www.hbtongdachem.com;http://www.hbtongdachem.com/mod_product-prdlist-p-2.html;ФСКН;2/1/11-33391;2015-02-26
+37.48.127.134;www.hdtubes.net;http://www.hdtubes.net/;суд;2-1594/15;2015-07-23
 181.224.136.154;www.headshoponline.org;http://www.headshoponline.org/;ФСКН;2/1/11-39006;2015-06-08
 192.170.156.101;www.hellotrade.com;http://www.hellotrade.com/agrogroupcolimited/jwh-018-jwh-073-jwh-200-jwh-250.html;ФСКН;2/1/11-41621;2015-08-05
 82.94.201.66;www.hempseedshop.com;http://www.hempseedshop.com/;суд;2-8730/13;2013-12-09
@@ -11232,6 +11255,7 @@ Updated: 2015-09-28 05:12:00 +0000
 217.146.69.7;www.reklama.ee;http://www.reklama.ee/links/r13.htm;суд;2-3567/2015;2015-04-15
 217.12.209.103;www.remont21.ru;http://www.remont21.ru/board/messages/3240-Prodazha-jwh-018mda-29reaktivyreagentysolskorosteforetikichaikristallspaistverdyi.html;ФСКН;2/1/11-37176;2015-05-06
 217.12.209.103;www.remont21.ru;http://www.remont21.ru/board/messages/3317-Kupit-mdpv-sol-sapis-rega-mef-jwh-89193757072-optom-i-v-roznicu-mefedron-zakladki-skorost-koncentrat-kislota-marki-eiforetiki-kruglosutochno.html;ФСКН;2/1/11-38996;2015-06-05
+217.12.209.103;www.remont21.ru;http://www.remont21.ru/board/messages/3319-Legalnye-poroshki-marki-soli-i-mnogoe-drugoe....html;ФСКН;2/1/11-44185;2015-09-21
 62.129.141.66;www.reocities.com;http://www.reocities.com/RainForest/9462/3_grow.html;ФСКН;2/1/11-34046;2015-03-12
 62.129.141.66;www.reocities.com;http://www.reocities.com/Rainforest/9462/4_grow.html;ФСКН;2/1/11-20695;2014-05-06
 185.28.22.121 | 185.28.22.24 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.16.107 | 23.238.17.148 | 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.130 | 23.254.132.155 | 23.254.132.93 | 23.254.164.103 | 23.254.167.175 | 23.254.201.113;www.reogentik.com;http://www.reogentik.com;суд;2-352/15;2015-01-26
@@ -11771,6 +11795,7 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.8.2 | 104.28.9.2 | 188.164.255.182 | 88.85.73.179;www.volcanovip.org;http://www.volcanovip.org/;суд;2-2296/14;2014-12-25
 85.17.26.208;www.voyeur-fotos.net;http://www.voyeur-fotos.net/;Роскомнадзор;27240-URL-on;2014-06-06
 23.227.38.112 | 23.227.38.113 | 23.227.38.114 | 23.227.38.115;www.vsb-cchq.com;http://www.vsb-cchq.com/;ФСКН;2/1/11-38246;2015-05-25
+94.242.203.110;www.vsemania.ru;http://www.vsemania.ru;суд;2-3018-2015;2015-06-22
 104.24.110.36 | 104.24.111.36 | 178.238.225.117;www.vsepropoker.ru;http://www.vsepropoker.ru/;суд;2-1587/2015;2015-07-09
 31.148.219.183;www.vulcan-slots.com;http://www.vulcan-slots.com/;суд;2-752/14;2014-02-06
 78.140.166.83;www.vulcanplay.com;http://www.vulcanplay.com/;суд;2-87/2015;2015-02-19
@@ -11847,12 +11872,15 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/user/psodessa;Генпрокуратура;27-31-2015/Ид831-15 ;2015-03-12
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?t=20&v=G5nRS4TOLro;ФСКН;2/1/11-42404;2015-08-19
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?t=25&v=nqFnNmpLDr4;суд;2-2335/2014;2014-11-05
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=-1q_o5FYgcc;суд;2-8304/2012;2012-09-20
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=1GLmNNRrXhg;Генпрокуратура;27-31-2015/Ид1238-15;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=347W4P-pRdU;ФСКН;2/1/11-41751;2015-08-07
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=5l1eVnBREOw;суд;2-7014/2015;2015-07-09
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=6bAj75qpugU;суд;2-446/2015;2015-07-08
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=6ssYwstfPic;суд;б/н;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=8i5-QrCEv0g;суд;2-3183/2015;2015-05-06
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=8qs-wsPp6dc;ФСКН;2/1/11-42908;2015-08-27
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=ANRUe2wYOMo;суд;2-1000/15;2015-03-17
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=APqifZIoiWo;Генпрокуратура;27-27-2014/Ид4251-14;2014-12-22
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=B-vkox2SHTo;суд;2-1956/13;2013-06-21
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=DeNoQmOJPMc;ФСКН;2/1/11-41883;2015-08-10
@@ -11860,6 +11888,7 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=IB7lZHK6uRo;суд;2-1080/2015;2015-07-09
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=J1SvNkvXouI;ФСКН;2/1/11-42895;2015-08-27
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=Jd5q_fN0Ph8;суд;б/н;2015-04-14
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=JsLbGjLVtBI;суд;2-618/2015;2015-07-06
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=KijS4dNodlc;ФСКН;2/1/11-41888;2015-08-10
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=LqeptDsGHgA;суд;2-2/20/2015;2014-12-31
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=MA722mghpAM;ФСКН;2/1/11-41937;2015-08-11
@@ -11870,6 +11899,7 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=PLG1-FaVyWE;суд;б/н;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=PbpjTJaZaes;ФСКН;2/1/11-42782;2015-08-26
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=PejVLrHXPUo;ФСКН;2/1/11-42200;2015-08-14
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=QB4eaJmGGXo;суд;2-465/14;2014-02-12
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=RD8L3QADDlU;суд;2-2335/2014;2014-11-05
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=SNEylptpgGk;Генпрокуратура;27-27-2014/Ид4251-14;2014-12-22
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=Se7ZoMyZh44;ФСКН;2/1/11-41885;2015-08-10
@@ -11877,6 +11907,7 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=UAarCh9RVm0;Генпрокуратура;27-31-2015/Ид1238-15;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=UPi_iKY-Nmc;Генпрокуратура;27-31-2015/Ид1238-15;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=UvBFW1bfeD8;Генпрокуратура;27-31-2015/Ид1238-15;2015-04-14
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=VJXKuq-TfZA;суд;2-7014/2015;2015-07-09
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=Z8pM-gmMSjQ;Генпрокуратура;27-31-2015/Ид1046-15;2015-03-31
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=Zq8dRJxYO5g;ФСКН;2/1/11-42904;2015-08-27
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=_66RhYXK7X0;Генпрокуратура;27-27-2015/Ид39-15;2015-01-14
@@ -11887,14 +11918,17 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=bjGafMyPZ4A;Генпрокуратура;27-31-2015/Ид1238-15;2015-04-14
 72.8.190.47;www.youtube.com;http://www.youtube.com/watch?v=c305xNG7evI;суд;2-3320/14;2014-08-21
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=ckgIKXzT1JE;суд;2-2335/2014;2014-11-05
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=diSwA9dyiFk;суд;2-1453/2015;2015-07-01
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=gAG1vpEtXFs;суд;2-4772/2014;2014-09-24
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=gzGJeF3Wfo8;ФСКН;2/1/11-41859;2015-08-10
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=h0cvdoPYF5g;ФСКН;2/1/11-41890;2015-08-10
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=hs26cR0NKys;Генпрокуратура;27-27-2014/Ид838-14;2014-03-17
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=hz0x3XOE1Qo;суд;б/н;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=jUfoU53CpNM;Генпрокуратура;27-27-2014/Ид4251-14;2014-12-22
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=kRGro5F7I4M;суд;б/н;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=l6ETiEikLPY;Генпрокуратура;27-31-2015/Ид1046-15;2015-03-31
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=l8ckTqfCSkk;ФСКН;2/1/11-42819;2015-08-27
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=m2wwpBJfwW8;суд;2-8116/2014;2014-09-17
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=mQY2C-1o4sY;ФСКН;2/1/11-41886;2015-08-10
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=nlC9WCQB8C4;Генпрокуратура;27-27-2014/Ид4253-14;2014-12-22
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=nyL5a8ijH78;суд;2-586/2015;2015-06-25
@@ -11902,6 +11936,7 @@ Updated: 2015-09-28 05:12:00 +0000
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=odq5a72g0EA;Генпрокуратура;27-27-2014/Ид4247-14;2014-12-20
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=p9jkRFERWb0;суд;2-2212/15;2015-06-22
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=qbciWAb7HMQ;Генпрокуратура;27-31-2015;2015-02-27
+74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=rFWn9Zwne4E;суд;2-1032/11;2011-03-15
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=rngI5PwISdI;суд;б/н;2015-04-14
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=sniqHXsoK9U;ФСКН;2/1/11-42783;2015-08-26
 74.125.196.132;www.youtube.com;http://www.youtube.com/watch?v=svH0kUVKNZI;ФСКН;2/1/11-41860;2015-08-10
@@ -11951,6 +11986,7 @@ Updated: 2015-09-28 05:12:00 +0000
 178.255.144.35 | 82.94.249.234 | 94.23.50.208;xavtnmx.noblogs.org;http://xavtnmx.noblogs.org/post/2013/11/03/belarus/;суд;2-3286/2014;2014-07-25
 178.255.144.35 | 82.94.249.234 | 94.23.50.208;xavtnmx.noblogs.org;http://xavtnmx.noblogs.org/post/2013/11/04/violence/;суд;2-3286/2014;2014-07-25
 178.255.144.35 | 82.94.249.234 | 94.23.50.208;xavtnmx.noblogs.org;http://xavtnmx.noblogs.org/post/2013/11/16/vanya/;суд;2-3286/2014;2014-07-25
+74.125.196.132;xaybar.blogspot.com.tr;http://xaybar.blogspot.com.tr/2011/12/blog-post_04.html;суд;2-1031/11;2011-03-15
 5.178.68.70;xbooru.com;http://xbooru.com/index.php?page=post&s=view&id=288097;Роскомнадзор;44581-URL-on;2014-12-16
 5.178.68.70;xbooru.com;http://xbooru.com/index.php?page=post&s=view&id=359076;Роскомнадзор;44582-URL-on;2014-12-16
 5.178.68.70;xbooru.com;http://xbooru.com/index.php?page=post&s=view&id=359603;Роскомнадзор;44583-URL-on;2014-12-16
@@ -11958,6 +11994,7 @@ Updated: 2015-09-28 05:12:00 +0000
 5.178.68.70;xbooru.com;http://xbooru.com/index.php?page=post&s=view&id=460706;Роскомнадзор;44585-URL-on;2014-12-16
 46.229.166.149 | 5.39.10.93 | 5.45.68.151;xdosug.cz;http://xdosug.cz;суд;2-1469/15;2015-03-12
 93.125.75.4;xdreport.ru;http://xdreport.ru/advert/kommertsiya/legalnye-poroshki-v-ekaterinburge-obyyavleniya;ФСКН;2/1/11-37857;2015-05-19
+74.125.196.132;xenudism.blogspot.ru;http://xenudism.blogspot.ru/2012_11_01_archive.html?zx=bd7b7596b0fee73c;Роскомнадзор;78375-URL-on;2015-09-16
 62.212.85.226;xguru.info;http://xguru.info;суд;2-1447/15;2015-03-11
 88.208.18.30 | 88.208.24.33 | 88.208.24.35 | 88.208.24.41 | 88.208.24.42 | 88.208.24.46 | 88.208.24.47 | 88.208.24.49 | 88.208.24.54 | 88.208.29.24;xhamster.com;http://xhamster.com/;суд;2-132/15;2015-02-19
 37.187.25.24;xhomovies.com;http://xhomovies.com/videos.php;Роскомнадзор;33425-URL-on;2014-08-22
@@ -12004,6 +12041,7 @@ Updated: 2015-09-28 05:12:00 +0000
 50.63.44.1;yabeda.org;http://yabeda.org/kandul-razvodilnyy-advokat_9737.html;суд;2-215/2015;2015-02-03
 50.63.44.1;yabeda.org;http://yabeda.org/polnostyu-chernyy-zamusorennyy-advokat-oboroten-_9348.html;суд;2-215/2015;2015-02-03
 149.62.172.72;yamaspain.com;http://yamaspain.com/afghan-solid-rock-3gr;ФСКН;2/1/11-43163;2015-09-01
+74.125.196.132;yaoi-boy-paradise.blogspot.ru;http://yaoi-boy-paradise.blogspot.ru/2013/04/bdsm_6965.html?zx=f0fe2609847f790a;Роскомнадзор;78359-URL-on;2015-09-16
 93.171.216.111;yaprostitutka.ru;http://yaprostitutka.ru;суд;2-35/2015;2015-01-26
 93.171.216.111;yaprostitutka.ru;http://yaprostitutka.ru/gorod/1070/novocheboksarsk;суд;2-1083/15;2015-05-12
 85.25.20.46;yarcevo.telkniga.com;http://yarcevo.telkniga.com/;суд;2-799-14;2014-04-30
@@ -12110,7 +12148,9 @@ Updated: 2015-09-28 05:12:00 +0000
 104.28.16.118 | 104.28.17.118 | 199.27.134.32 | 199.27.135.32;zombie-legal.com;http://zombie-legal.com/zombielegal.php;ФСКН;2/1/11-17670;2014-03-03
 108.162.205.30 | 108.162.206.30;zomzom.biz;http://zomzom.biz;ФСКН;2/1/11-42025;2015-08-12
 107.21.247.26 | 198.23.64.51;zone.aimoo.com;http://zone.aimoo.com/blog/Bhnag/blog/340807;ФСКН;2/1/11-36598;2015-04-23
+95.175.43.103;zoo4u.ru;http://zoo4u.ru/dlya_zhivotnyh/dobavki/25731.html;ФСКН;2/1/11-44168;2015-09-21
 80.244.165.66 | 95.175.43.103;zoo4u.ru;http://zoo4u.ru/dlya_zhivotnyh/dobavki/25736.html;ФСКН;2/1/11-39349;2015-06-15
+95.175.43.103;zoo4u.ru;http://zoo4u.ru/dlya_zhivotnyh/dobavki/25789.html;ФСКН;2/1/11-44167;2015-09-21
 80.244.165.66 | 95.175.43.103;zoo4u.ru;http://zoo4u.ru/drugie_zhivotnye/kuni/25676.html;ФСКН;2/1/11-39123;2015-06-09
 80.244.165.66 | 95.175.43.103;zoo4u.ru;http://zoo4u.ru/gryzuny/;ФСКН;2/1/11-39934;2015-06-24
 80.244.165.66 | 95.175.43.103;zoo4u.ru;http://zoo4u.ru/reptilii/prodazha/25802.html;ФСКН;2/1/11-42503;2015-08-20
