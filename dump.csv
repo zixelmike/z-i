@@ -1,4 +1,4 @@
-Updated: 2015-10-03 09:18:00 +0000
+Updated: 2015-10-03 10:00:00 +0000
 149.202.99.111;cserv1.net;Newcamd525://cserv1.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
 149.202.99.210;cserv10.net;Newcamd525://cserv10.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
 149.202.99.209;cserv11.net;Newcamd525://cserv11.net:10000;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0101/2015;2015-06-11
@@ -647,6 +647,7 @@ Updated: 2015-10-03 09:18:00 +0000
 78.140.132.145;azartgaming.net;http://azartgaming.net;суд;2-3420/15;2015-06-23
 91.226.127.51;azartmaniya.net;http://azartmaniya.net;суд;2-2449/14;2014-07-23
 78.140.149.101 | 78.140.149.102;azartplaay.com;http://azartplaay.com/;суд;б/н;2014-09-08
+78.140.148.232 | 78.140.148.233;azartplace.com;http://azartplace.com/?az67077#;суд;2-2730/15;2015-04-15
 5.45.64.114;azartplay-online.com;http://azartplay-online.com;суд;2-4621/2015;2015-04-29
 104.27.134.214 | 104.27.135.214;azartplay.org;http://azartplay.org/;суд;2-1921/2015;2015-02-26
 78.140.149.118 | 78.140.149.119;azartplaycasino.net;http://azartplaycasino.net;суд;2-714/2014;2014-10-01
@@ -1414,6 +1415,7 @@ Updated: 2015-10-03 09:18:00 +0000
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/others/268699/;ФСКН;2/1/11-44180;2015-09-21
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/services/265558/;ФСКН;2/1/11-35364;2015-04-02
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/sports/283367/;ФСКН;2/1/11-44097;2015-09-18
+64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/toys_games_and_models/279843/;ФСКН;2/1/11-44446;2015-09-28
 64.34.89.155;classifieds.russianamerica.com;http://classifieds.russianamerica.com/rus/usa/toys_games_and_models/283366/;ФСКН;2/1/11-43069;2015-08-31
 64.34.89.155;classifieds.russianboston.com;http://classifieds.russianboston.com/rus/boston/activities/265556/;ФСКН;2/1/11-33147;2015-02-19
 64.34.89.155;classifieds.russianboston.com;http://classifieds.russianboston.com/rus/boston/activities/274819/;ФСКН;2/1/11-41450;2015-08-03
@@ -1695,6 +1697,7 @@ Updated: 2015-10-03 09:18:00 +0000
 104.27.146.122 | 104.27.147.122 | 104.31.80.34 | 104.31.81.34 | 179.43.151.167;diplom-vuz.net;http://diplom-vuz.net/;суд;2-1320/2014;2014-09-22
 192.99.212.207;diplom-xopowista.com;http://diplom-xopowista.com;суд;2-1188/2014;2014-09-16
 91.224.160.123;diplom4u.biz;http://diplom4u.biz/;суд;2-790/2015;2015-07-08
+66.147.240.170;diploma5.ru;http://diploma5.ru;суд;2-2091/2015;2015-08-04
 66.147.240.170;diploma5.ru;http://diploma5.ru/by-diploma-volgograd;суд;2-1653/2015;2015-06-02
 31.204.154.149 | 31.204.154.155 | 31.204.154.75;diploma63.ru;http://diploma63.ru/samara;суд;2-300/14;2013-01-27
 31.204.154.149;diploma72.ru;http://diploma72.ru/contacts;суд;2-341/2014;2014-11-11
@@ -1717,6 +1720,7 @@ Updated: 2015-10-03 09:18:00 +0000
 31.204.154.149;diploma72.ru;http://diploma72.ru/other;суд;2-341/2014;2014-11-11
 31.204.154.149;diploma72.ru;http://diploma72.ru/prices-and-examples;суд;2-341/2014;2014-11-11
 31.204.154.149;diploma72.ru;http://diploma72.ru/tumen;суд;2-341/2014;2014-11-11
+37.230.118.183;diplombl.com;http://diplombl.com;суд;2-2092/2015;2015-08-04
 94.242.203.110;diplomcity.com;http://diplomcity.com;суд;2-1171-2015;2015-04-27
 23.229.220.9 | 83.125.22.211;diplomhelp.com;http://diplomhelp.com;суд;2-1208/2014;2014-09-15
 23.229.220.9 | 83.125.22.211;diplomhelp.com;http://diplomhelp.com/pr.php;суд;2-2040/2014;2014-09-26
@@ -2538,12 +2542,18 @@ Updated: 2015-10-03 09:18:00 +0000
 185.31.209.104 | 185.31.209.105 | 185.59.100.46;gde-kupit-spays.24ora.biz;http://gde-kupit-spays.24ora.biz/;ФСКН;2/1/11-40383;2015-07-20
 185.31.209.104 | 185.31.209.105 | 185.59.100.46;gde-kuritelnye-smesi-v-permi.fiton.biz;http://gde-kuritelnye-smesi-v-permi.fiton.biz/;ФСКН;2/1/11-40376;2015-07-13
 185.31.209.104;gde-legalny-narkotiki.texaschildfind.com;http://gde-legalny-narkotiki.texaschildfind.com/;ФСКН;2/1/11-31861;2015-01-30
+185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikhimki.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikhimki.gaba.biz/;ФСКН;2/1/11-44480;2015-09-28
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikkolomna.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikkolomna.gaba.biz/;ФСКН;2/1/11-44304;2015-09-23
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikkorolev.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikkorolev.gaba.biz/;ФСКН;2/1/11-44312;2015-09-23
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikorel.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikorel.gaba.biz/;ФСКН;2/1/11-44413;2015-09-25
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikperm.2f2.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikperm.2f2.biz/;ФСКН;2/1/11-44424;2015-09-25
+185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetiksmolensk.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetiksmolensk.gaba.biz/;ФСКН;2/1/11-44450;2015-09-28
+185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetiktula.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetiktula.gaba.biz/;ФСКН;2/1/11-44461;2015-09-28
+185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikulyanovsk.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikulyanovsk.gaba.biz/;ФСКН;2/1/11-44470;2015-09-28
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikvladivostok.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-amfetamin-eyforetikvladivostok.gaba.biz/;ФСКН;2/1/11-44352;2015-09-24
 185.59.100.43;gde-vzyat-zakazat-nayti-kupit-jwh-reagent-dlya-spaysavorkuta.gaba.biz;http://gde-vzyat-zakazat-nayti-kupit-jwh-reagent-dlya-spaysavorkuta.gaba.biz/;ФСКН;2/1/11-43962;2015-09-15
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-chelyabinske.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-chelyabinske.sloat.biz/;ФСКН;2/1/11-44482;2015-09-28
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-chelyabinske.ssaib.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-chelyabinske.ssaib.biz/;ФСКН;2/1/11-44483;2015-09-28
 185.59.100.43;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ekaterinburge.2m2.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ekaterinburge.2m2.biz/;ФСКН;2/1/11-44359;2015-09-24
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ekaterinburge.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ekaterinburge.sloat.biz/;ФСКН;2/1/11-44356;2015-09-24
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-irkutske.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-irkutske.sloat.biz/;ФСКН;2/1/11-44363;2015-09-24
@@ -2569,6 +2579,11 @@ Updated: 2015-10-03 09:18:00 +0000
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-permi.ssaib.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-permi.ssaib.biz/;ФСКН;2/1/11-44418;2015-09-25
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-rostove-na-donu.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-rostove-na-donu.sloat.biz/;ФСКН;2/1/11-44432;2015-09-25
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-samare.ssaib.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-samare.ssaib.biz/;ФСКН;2/1/11-44441;2015-09-25
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-smolenske.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-smolenske.sloat.biz/;ФСКН;2/1/11-44448;2015-09-28
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-tumeni.ssaib.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-tumeni.ssaib.biz/;ФСКН;2/1/11-44457;2015-09-28
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulan-ude.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulan-ude.sloat.biz/;ФСКН;2/1/11-44477;2015-09-28
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulan-ude.ssaib.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulan-ude.ssaib.biz/;ФСКН;2/1/11-44475;2015-09-28
+185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulyanovske.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-ulyanovske.sloat.biz/;ФСКН;2/1/11-44466;2015-09-28
 185.31.209.105;gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-voronezhe.sloat.biz;http://gde-zakazat-vzyat-kupit-amfetamin-eyforetik-v-voronezhe.sloat.biz/;ФСКН;2/1/11-44348;2015-09-24
 185.31.209.105;gde-zakazat-vzyat-kupit-jwh-reagent-dlya-spaysa-v-abakane.sloat.biz;http://gde-zakazat-vzyat-kupit-jwh-reagent-dlya-spaysa-v-abakane.sloat.biz/;ФСКН;2/1/11-43938;2015-09-15
 185.31.209.105;gde-zakazat-vzyat-kupit-jwh-reagent-dlya-spaysa-v-bryanske.sloat.biz;http://gde-zakazat-vzyat-kupit-jwh-reagent-dlya-spaysa-v-bryanske.sloat.biz/;ФСКН;2/1/11-43950;2015-09-15
@@ -3286,6 +3301,7 @@ Updated: 2015-10-03 09:18:00 +0000
 65.254.250.114;islamnuri.com;http://islamnuri.com/Russ/knigi/IRAllaha.htm;суд;2-3/372/2014;2014-12-16
 193.219.5.196;islamumma.net;http://islamumma.net/;Генпрокуратура;27-27-2014/Ид1749-14 ;2014-05-27
 104.28.4.44 | 104.28.5.44 | 108.162.194.128 | 108.162.195.128;islamvmoldove.com;http://islamvmoldove.com/krepost-musulmanina/;суд;2-1327/2015;2015-04-20
+174.129.235.52;issuu.com;http://issuu.com/badr_/docs/rniga_ed_fv/1;суд;2-355/14;2014-08-18
 104.27.144.26 | 104.27.145.26;itvmovie.eu;http://itvmovie.eu/watch-movie-online/true-detective-season-2-9455-1-1.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0147/2015;2015-06-26
 82.118.19.35;ivano-frankivsk.bonline.com.ua;http://ivano-frankivsk.bonline.com.ua/index.php?pid=11&cat_id=121&ad_id=254448;ФСКН;2/1/11-36212;2015-04-16
 85.25.20.46;ivanovo.telkniga.com;http://ivanovo.telkniga.com/;суд;2-799-14;2014-04-30
@@ -3599,6 +3615,8 @@ Updated: 2015-10-03 09:18:00 +0000
 85.25.20.46;kostroma.telkniga.com;http://kostroma.telkniga.com/;суд;2-799-14;2014-04-30
 188.226.156.91;krasivinabordevushek.ru;http://krasivinabordevushek.ru/gorod/rossiya/hanty-mansiyskiy-ao/;суд;2-479/2015;2015-03-20
 85.25.20.46;krasniy.telkniga.com;http://krasniy.telkniga.com/;суд;2-799-14;2014-04-30
+93.170.104.197;krasnodar.intim66.com;http://krasnodar.intim66.com/;суд;2-461/2015;2015-07-29
+93.170.79.85;krasnodar.otsos.me;http://krasnodar.otsos.me;суд;2-461/2015;2015-07-29
 190.115.24.90;krasnodar.prostitutki.com;http://krasnodar.prostitutki.com/;суд;2-4200/14;2014-08-07
 85.25.20.46;krasnodar.telkniga.com;http://krasnodar.telkniga.com/;суд;2-799-14;2014-04-30
 178.63.9.8;krasnodar.true-false.net;http://krasnodar.true-false.net/biokhimiya/sol-dlya-vann-cristalius-p88532.html;ФСКН;2/1/11-36149;2015-04-15
@@ -3643,7 +3661,12 @@ Updated: 2015-10-03 09:18:00 +0000
 185.59.100.43;kupit-amfetamin-eyforetik-ramenskoe.wnx7.com;http://kupit-amfetamin-eyforetik-ramenskoe.wnx7.com/;ФСКН;2/1/11-44262;2015-09-22
 185.59.100.43;kupit-amfetamin-eyforetik-ryazan.wnx7.com;http://kupit-amfetamin-eyforetik-ryazan.wnx7.com/;ФСКН;2/1/11-44437;2015-09-25
 185.59.100.43;kupit-amfetamin-eyforetik-samara.wnx7.com;http://kupit-amfetamin-eyforetik-samara.wnx7.com/;ФСКН;2/1/11-44443;2015-09-25
+185.59.100.43;kupit-amfetamin-eyforetik-sterlitamak.wnx7.com;http://kupit-amfetamin-eyforetik-sterlitamak.wnx7.com/;ФСКН;2/1/11-44453;2015-09-28
 185.59.100.43;kupit-amfetamin-eyforetik-surgut.wnx7.com;http://kupit-amfetamin-eyforetik-surgut.wnx7.com/;ФСКН;2/1/11-44444;2015-09-25
+185.59.100.43;kupit-amfetamin-eyforetik-tambov.wnx7.com;http://kupit-amfetamin-eyforetik-tambov.wnx7.com/;ФСКН;2/1/11-44460;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetik-ufa.wnx7.com;http://kupit-amfetamin-eyforetik-ufa.wnx7.com/;ФСКН;2/1/11-44464;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetik-ulyanovsk.wnx7.com;http://kupit-amfetamin-eyforetik-ulyanovsk.wnx7.com/;ФСКН;2/1/11-44469;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetik-ussuriysk.wnx7.com;http://kupit-amfetamin-eyforetik-ussuriysk.wnx7.com/;ФСКН;2/1/11-44472;2015-09-28
 185.31.209.105;kupit-amfetamin-eyforetik-v-abakane.sloat.biz;http://kupit-amfetamin-eyforetik-v-abakane.sloat.biz/;ФСКН;2/1/11-44340;2015-09-24
 185.31.209.105;kupit-amfetamin-eyforetik-v-ekaterinburge.sloat.biz;http://kupit-amfetamin-eyforetik-v-ekaterinburge.sloat.biz/;ФСКН;2/1/11-44357;2015-09-24
 185.31.209.105;kupit-amfetamin-eyforetik-v-ekaterinburge.ssaib.biz;http://kupit-amfetamin-eyforetik-v-ekaterinburge.ssaib.biz/;ФСКН;2/1/11-44355;2015-09-24
@@ -3671,6 +3694,15 @@ Updated: 2015-10-03 09:18:00 +0000
 185.31.209.105;kupit-amfetamin-eyforetik-v-rostove-na-donu.sloat.biz;http://kupit-amfetamin-eyforetik-v-rostove-na-donu.sloat.biz/;ФСКН;2/1/11-44433;2015-09-25
 185.31.209.105;kupit-amfetamin-eyforetik-v-rostove-na-donu.ssaib.biz;http://kupit-amfetamin-eyforetik-v-rostove-na-donu.ssaib.biz/;ФСКН;2/1/11-44431;2015-09-25
 185.31.209.105;kupit-amfetamin-eyforetik-v-samare.sloat.biz;http://kupit-amfetamin-eyforetik-v-samare.sloat.biz/;ФСКН;2/1/11-44440;2015-09-25
+185.31.209.105;kupit-amfetamin-eyforetik-v-smolenske.sloat.biz;http://kupit-amfetamin-eyforetik-v-smolenske.sloat.biz/;ФСКН;2/1/11-44447;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetik-v-tumeni.2m2.biz;http://kupit-amfetamin-eyforetik-v-tumeni.2m2.biz/;ФСКН;2/1/11-44458;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-tumeni.sloat.biz;http://kupit-amfetamin-eyforetik-v-tumeni.sloat.biz/;ФСКН;2/1/11-44455;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-tumeni.ssaib.biz;http://kupit-amfetamin-eyforetik-v-tumeni.ssaib.biz/;ФСКН;2/1/11-44456;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-ulan-ude.sloat.biz;http://kupit-amfetamin-eyforetik-v-ulan-ude.sloat.biz/;ФСКН;2/1/11-44476;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-ulan-ude.ssaib.biz;http://kupit-amfetamin-eyforetik-v-ulan-ude.ssaib.biz/;ФСКН;2/1/11-44474;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetik-v-ulyanovske.2m2.biz;http://kupit-amfetamin-eyforetik-v-ulyanovske.2m2.biz/;ФСКН;2/1/11-44468;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-ulyanovske.sloat.biz;http://kupit-amfetamin-eyforetik-v-ulyanovske.sloat.biz/;ФСКН;2/1/11-44465;2015-09-28
+185.31.209.105;kupit-amfetamin-eyforetik-v-ulyanovske.ssaib.biz;http://kupit-amfetamin-eyforetik-v-ulyanovske.ssaib.biz/;ФСКН;2/1/11-44467;2015-09-28
 185.59.100.43;kupit-amfetamin-eyforetik-v-voronezhe.2m2.biz;http://kupit-amfetamin-eyforetik-v-voronezhe.2m2.biz/;ФСКН;2/1/11-44350;2015-09-24
 185.31.209.105;kupit-amfetamin-eyforetik-v-voronezhe.sloat.biz;http://kupit-amfetamin-eyforetik-v-voronezhe.sloat.biz/;ФСКН;2/1/11-44347;2015-09-24
 185.31.209.105;kupit-amfetamin-eyforetik-v-voronezhe.ssaib.biz;http://kupit-amfetamin-eyforetik-v-voronezhe.ssaib.biz/;ФСКН;2/1/11-44349;2015-09-24
@@ -3683,6 +3715,7 @@ Updated: 2015-10-03 09:18:00 +0000
 185.59.100.43;kupit-amfetamin-eyforetikbryansk.gaba.biz;http://kupit-amfetamin-eyforetikbryansk.gaba.biz/;ФСКН;2/1/11-44345;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikbryansk.sf7.biz;http://kupit-amfetamin-eyforetikbryansk.sf7.biz/;ФСКН;2/1/11-44346;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikgroznyy.sf7.biz;http://kupit-amfetamin-eyforetikgroznyy.sf7.biz/;ФСКН;2/1/11-44342;2015-09-24
+185.59.100.43;kupit-amfetamin-eyforetikhimki.gaba.biz;http://kupit-amfetamin-eyforetikhimki.gaba.biz/;ФСКН;2/1/11-44479;2015-09-28
 185.59.100.43;kupit-amfetamin-eyforetikivanovo.gaba.biz;http://kupit-amfetamin-eyforetikivanovo.gaba.biz/;ФСКН;2/1/11-44369;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikizhevsk.gaba.biz;http://kupit-amfetamin-eyforetikizhevsk.gaba.biz/;ФСКН;2/1/11-44365;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikizhevsk.sf7.biz;http://kupit-amfetamin-eyforetikizhevsk.sf7.biz/;ФСКН;2/1/11-44307;2015-09-23
@@ -3714,7 +3747,18 @@ Updated: 2015-10-03 09:18:00 +0000
 185.59.100.43;kupit-amfetamin-eyforetiksamara.2f2.biz;http://kupit-amfetamin-eyforetiksamara.2f2.biz/;ФСКН;2/1/11-44438;2015-09-25
 185.59.100.43;kupit-amfetamin-eyforetiksamara.gaba.biz;http://kupit-amfetamin-eyforetiksamara.gaba.biz/;ФСКН;2/1/11-44439;2015-09-25
 185.59.100.43;kupit-amfetamin-eyforetiksamara.sf7.biz;http://kupit-amfetamin-eyforetiksamara.sf7.biz/;ФСКН;2/1/11-44442;2015-09-25
+185.59.100.43;kupit-amfetamin-eyforetiksmolensk.gaba.biz;http://kupit-amfetamin-eyforetiksmolensk.gaba.biz/;ФСКН;2/1/11-44449;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetiksterlitamak.gaba.biz;http://kupit-amfetamin-eyforetiksterlitamak.gaba.biz/;ФСКН;2/1/11-44452;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetiksterlitamak.sf7.biz;http://kupit-amfetamin-eyforetiksterlitamak.sf7.biz/;ФСКН;2/1/11-44454;2015-09-28
 185.59.100.43;kupit-amfetamin-eyforetiksurgut.gaba.biz;http://kupit-amfetamin-eyforetiksurgut.gaba.biz/;ФСКН;2/1/11-44445;2015-09-25
+185.59.100.43;kupit-amfetamin-eyforetiksyktyvkar.gaba.biz;http://kupit-amfetamin-eyforetiksyktyvkar.gaba.biz/;ФСКН;2/1/11-44451;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetiktambov.gaba.biz;http://kupit-amfetamin-eyforetiktambov.gaba.biz/;ФСКН;2/1/11-44459;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetiktver.gaba.biz;http://kupit-amfetamin-eyforetiktver.gaba.biz/;ФСКН;2/1/11-44462;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetikufa.gaba.biz;http://kupit-amfetamin-eyforetikufa.gaba.biz/;ФСКН;2/1/11-44463;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetikulan-ude.2f2.biz;http://kupit-amfetamin-eyforetikulan-ude.2f2.biz/;ФСКН;2/1/11-44478;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetikulan-ude.gaba.biz;http://kupit-amfetamin-eyforetikulan-ude.gaba.biz/;ФСКН;2/1/11-44473;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetikulyanovsk.gaba.biz;http://kupit-amfetamin-eyforetikulyanovsk.gaba.biz/;ФСКН;2/1/11-44468;2015-09-28
+185.59.100.43;kupit-amfetamin-eyforetikussuriysk.gaba.biz;http://kupit-amfetamin-eyforetikussuriysk.gaba.biz/;ФСКН;2/1/11-44471;2015-09-28
 185.59.100.43;kupit-amfetamin-eyforetikvladivostok.2f2.biz;http://kupit-amfetamin-eyforetikvladivostok.2f2.biz/;ФСКН;2/1/11-44354;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikvladivostok.gaba.biz;http://kupit-amfetamin-eyforetikvladivostok.gaba.biz/;ФСКН;2/1/11-44351;2015-09-24
 185.59.100.43;kupit-amfetamin-eyforetikvladivostok.sf7.biz;http://kupit-amfetamin-eyforetikvladivostok.sf7.biz/;ФСКН;2/1/11-44337;2015-09-24
@@ -3736,11 +3780,13 @@ Updated: 2015-10-03 09:18:00 +0000
 5.230.145.6 | 5.230.147.132;kupit-boshki-ulianovsk.traderc.biz;http://kupit-boshki-ulianovsk.traderc.biz;ФСКН;2/1/11-40462;2015-07-29
 185.31.209.104 | 185.31.209.105 | 185.59.100.46;kupit-boshki-v-moskve.24ora.biz;http://kupit-boshki-v-moskve.24ora.biz/;ФСКН;2/1/11-40124;2015-06-26
 185.31.208.206 | 185.59.100.43;kupit-boshkinizhniy-tagil.2f2.biz;http://kupit-boshkinizhniy-tagil.2f2.biz/;ФСКН;2/1/11-42724;2015-08-25
+84.19.173.196;kupit-diplom-1.com;http://kupit-diplom-1.com;суд;2-2078/2015;2015-08-04
 146.255.47.12 | 23.229.220.9;kupit-diplom-shop.com;http://kupit-diplom-shop.com;суд;2-1419/15;2015-01-29
 23.229.220.9;kupit-diplom-shop.com;http://kupit-diplom-shop.com/gorod_Krasnodar/;суд;2-343/15;2015-02-04
 66.175.237.206;kupit-diplom-spb.net;http://kupit-diplom-spb.net;суд;2-419/2015;2015-06-29
 104.24.108.221 | 104.24.109.221 | 104.31.88.168 | 104.31.89.168 | 179.43.151.167;kupit-diplom-vuza.com;http://kupit-diplom-vuza.com/;суд;2-1267/2014;2014-09-22
 23.229.220.9;kupit-diplom.com;http://kupit-diplom.com/;суд;б/н;2014-07-16
+104.31.68.135 | 104.31.69.135;kupit-diplom1.com;http://kupit-diplom1.com;суд;2-2073/2015;2015-08-04
 104.27.150.113 | 104.27.151.113 | 91.215.155.64;kupit-diplomi-vuzov.com;http://kupit-diplomi-vuzov.com/;суд;2-1983/2015;2015-06-17
 194.54.89.232;kupit-diplomrf.ru;http://kupit-diplomrf.ru/kupit-diplom-vo-vladivostoke.html;суд;2-4976/2015;2015-06-22
 185.31.209.104 | 185.31.209.105 | 185.59.100.46;kupit-fen-spb.24ora.biz;http://kupit-fen-spb.24ora.biz/;ФСКН;2/1/11-40383;2015-07-20
@@ -5290,6 +5336,7 @@ Updated: 2015-10-03 09:18:00 +0000
 178.248.235.25;lurkmore.to;http://lurkmore.to/%D0%A4%D0%B0%D0%B9%D0%BB:E999c6a0c8f9caaeba0a2b76d4455748384e5374_loli.jpg;Роскомнадзор;68820-URL-on;2015-07-10
 178.248.235.25 | 85.17.124.151 | 85.17.124.181;lurkmore.to;http://lurkmore.to/%D0%A4%D0%B0%D0%B9%D0%BB:Moe_77869_sample.jpg;Роскомнадзор;62352-URL-on;2015-05-21
 178.248.235.25;lurkmore.to;http://lurkmore.to/%D0%A4%D0%B0%D0%B9%D0%BB:Shota_and_loli2.jpg;Роскомнадзор;68821-URL-on;2015-07-10
+178.248.235.25;lurkmore.to;http://lurkmore.to/Lurkmore:%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%B7%D0%B4%D0%B5%D1%86#.D0.A2.D0.B0.D0.B1.D0.BB.D0.B8.D1.87.D0.BA.D0.B0;Роспотребнадзор;6707;2015-09-26
 178.248.235.25;lurkmore.to;http://lurkmore.to/Lurkmore:%D0%A6%D0%B5%D0%BD%D0%B7%D1%83%D1%80%D0%B0/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0;Роспотребнадзор;6616;2015-09-18
 178.248.235.25;lurkmore.to;http://lurkmore.to/Коктейль_Молотова;суд;2-3844/2015;2015-03-31
 178.248.235.25 | 85.17.124.151;lurkmore.to;http://lurkmore.to/Файл:Moe_77869_sample.jpg;Роскомнадзор;62353-URL-on;2015-05-21
@@ -5347,6 +5394,7 @@ Updated: 2015-10-03 09:18:00 +0000
 5.45.77.46;magnitrc.com;http://magnitrc.com/;ФСКН;2/1/11-34187;2015-03-13
 74.125.29.132;maidanua.blogspot.ru;http://maidanua.blogspot.ru/2014/07/blog-post_11.html?spref=tw;Генпрокуратура;27-27-2014/Ид2520-14;2014-08-19
 167.114.0.112;maidanua.org;http://maidanua.org/arch/arch2008/1224216542.html;суд;2-3656/2015;2015-05-25
+157.7.184.12;maidmaidmaid.org;http://maidmaidmaid.org/archives/28026;Роскомнадзор;80193-URL-on;2015-09-28
 185.28.22.121 | 185.28.22.24 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.17.148 | 23.254.164.103;mail.forcemixes.com;http://mail.Forcemixes.com/;суд;2-211/2015;2015-03-02
 185.28.22.121 | 185.28.22.24 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.16.107 | 23.238.17.148 | 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.130 | 23.254.132.14 | 23.254.132.155 | 23.254.132.93 | 23.254.164.103 | 23.254.166.133 | 23.254.167.175 | 23.254.201.113;mail.aromaticmix.com;http://mail.aromaticmix.com/;ФСКН;2/1/11-30106;2014-12-01
 185.28.22.121 | 185.28.22.24 | 185.28.22.30 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.236 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.16.107 | 23.238.17.148 | 23.238.20.75 | 23.254.132.130 | 23.254.132.14 | 23.254.132.155 | 23.254.132.93 | 23.254.164.103 | 23.254.167.175 | 23.254.201.113;mail.avtosales.com;http://mail.avtosales.com;ФСКН;2/1/11-34652;2015-03-20
@@ -6469,6 +6517,7 @@ Updated: 2015-10-03 09:18:00 +0000
 104.31.82.233 | 104.31.83.233;numizmatov.net;http://numizmatov.net;суд;2-429/2015;2015-04-08
 50.31.162.101;nurr.ru;http://nurr.ru/content/%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D1%85%D0%B8%D0%B7%D0%B1-%D1%83%D1%82-%D1%82%D0%B0%D1%85%D1%80%D0%B8%D1%80-%D1%81%D0%BE-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B-%D0%B0%D1%85%D0%BB%D1%8C-%D0%B0%D1%81-%D1%81%D1%83%D0%BD%D0%BD%D0%B0-%D0%B2%D0%B0-%D0%BB%D1%8C-%D0%B4%D0%B6%D0%B0%D0%BC%D0%B0%D0%B0-%D0%B2-%D0%B2%D0%BE%D0%BF;Генпрокуратура;27-27-2014/Ид2616-14;2014-08-13
 50.31.162.101;nurr.ru;http://nurr.ru/content/%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D1%85%D0%B8%D0%B7%D0%B1-%D1%83%D1%82-%D1%82%D0%B0%D1%85%D1%80%D0%B8%D1%80-%D1%81%D0%BE-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B-%D0%B0%D1%85%D0%BB%D1%8C-%D0%B0%D1%81-%D1%81%D1%83%D0%BD%D0%BD%D0%B0-%D0%B2%D0%B0-%D0%BB%D1%8C-%D0%B4%D0%B6%D0%B0%D0%BC%D0%B0%D0%B0-%D0%B2-%D0%B2%D0%BE%D0%BF?;Генпрокуратура;27-27-2014/Ид2616-14;2014-08-13
+50.31.162.101;nurr.ru;http://nurr.ru/content/крепость-мусульманина;суд;2-62(3)/2015;2015-03-16
 50.31.162.101;nurr.ru;http://nurr.ru/content/тафсир-суры-аль-ахзаб;суд;2-1031/11;2011-03-15
 46.30.212.193;nuruddin.info;http://nuruddin.info/index.php?newsid=201;суд;2-7439/14;2014-06-06
 46.30.212.181;nuruddinvideo.com;http://nuruddinvideo.com/323-chuzhdye-guraba.html;суд;2-8815/2014;2014-11-11
@@ -6663,6 +6712,7 @@ Updated: 2015-10-03 09:18:00 +0000
 104.28.12.76 | 104.28.13.76;pas2doc.com;http://pas2doc.com/;суд;2-1288/2014;2014-09-18
 104.24.110.32 | 104.24.111.32 | 50.62.160.16;pasport-05.com;http://pasport-05.com/;суд;2-33/2015;2015-02-04
 184.168.221.4 | 192.186.209.233;pasport-servis.com;http://pasport-servis.com;суд;2-1039/15;2015-03-31
+200.63.41.130;pasport.cc;http://pasport.cc;суд;2-1914/2015;2015-05-14
 104.28.10.159 | 104.28.11.159;pasporta.biz;http://pasporta.biz;суд;2-980/14;2014-03-25
 104.28.8.17 | 104.28.9.17;pasportnik.ru;http://pasportnik.ru/;суд;2-35-2015;2015-02-25
 104.28.8.17 | 104.28.9.17;pasportnik.ru;http://pasportnik.ru/index.html;суд;2-145/2015;2015-01-23
@@ -6986,6 +7036,7 @@ Updated: 2015-10-03 09:18:00 +0000
 162.247.14.187 | 193.169.244.164;prosti-voronej.ru;http://prosti-voronej.ru;суд;2-346/15;2015-01-12
 94.242.203.110;prostigirls.ru;http://prostigirls.ru/langepas/27-katyusha.html;суд;2-362/2015;2015-04-27
 109.206.166.37 | 109.206.171.104 | 88.85.75.116 | 88.85.84.126;prostitutka.ru;http://prostitutka.ru;суд;2-4194/14;2014-08-07
+104.28.8.39 | 104.28.9.39;prostitutki-krasnodara.info;http://prostitutki-krasnodara.info;суд;2-461/2015;2015-07-29
 85.17.190.242 | 95.211.229.132;prostitutki-moskva.su;http://prostitutki-moskva.su/;суд;2-317/2015;2015-03-17
 104.28.8.109 | 104.28.9.109 | 108.162.203.248 | 108.162.204.248 | 190.93.254.181 | 190.93.255.181 | 5.45.68.153;prostitutki-moskvy.com;http://prostitutki-moskvy.com;суд;2-1467/15;2015-03-12
 88.198.230.201;prostitutki-novosibirska.ru;http://prostitutki-novosibirska.ru/;суд;2-317/2015;2015-03-17
@@ -8061,6 +8112,7 @@ Updated: 2015-10-03 09:18:00 +0000
 66.6.41.21 | 66.6.42.21 | 66.6.43.21;spoleczenstwo-jest-niemile.tumblr.com;http://spoleczenstwo-jest-niemile.tumblr.com/post/106411983239/ratak-monodosico-scene-from;Роскомнадзор;63275-URL-on;2015-05-29
 104.27.166.150 | 104.27.167.150;sport-television.org;http://sport-television.org | http://sport-television.org/ntv-nash-futbol.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0134/2015;2015-06-24
 185.28.72.64;sportingbet.com;http://sportingbet.com;суд;2-1687/2013;2013-05-23
+91.224.161.19-1687/2013;2013-05-23
 91.224.161.196;sportlandia112b.ru;http://sportlandia112b.ru/;ФСКН;2/1/11-43057;2015-08-31
 91.224.161.196;sportlandia112b.ru;http://sportlandia112b.ru/cat2/kuritelnie-smesi-irkutsk.html;ФСКН;2/1/11-43676;2015-09-09
 91.224.161.196;sportlandia112b.ru;http://sportlandia112b.ru/cat2/legalnie-krasnodar-poroshki.html;ФСКН;2/1/11-43298;2015-09-03
@@ -8494,7 +8546,7 @@ Updated: 2015-10-03 09:18:00 +0000
 88.80.28.8;swfchan.com;http://swfchan.com/29/142831/?tgldl+-+sprite301.swf;Роскомнадзор;39754-URL-on;2014-10-29
 88.80.28.8;swfchan.com;http://swfchan.com/29/142956/?tgldl+-+sprite347.swf;Роскомнадзор;39748-URL-on;2014-10-29
 88.80.28.8;swfchan.com;http://swfchan.com/29/142990/?Sisteralice+06.swf;Роскомнадзор;39752-URL-on;2014-10-29
-88.80.28.8;swfchan.com;http://swfchan.com/29/143298/?TGLA.swf;Роскомнадзор;39722-URL-on;2014-10-29
+88.80.28.8;swfchan.com;http://swfchan.com/29/1432-on;2014-10-29
 88.80.28.8;swfchan.com;http://swfchan.com/29/143771/?porkhouse+-+roli.swf;Роскомнадзор;39750-URL-on;2014-10-29
 88.80.28.8;swfchan.com;http://swfchan.com/29/143776/?Komeno+-+mokoka.swf;Роскомнадзор;39723-URL-on;2014-10-29
 88.80.28.8;swfchan.com;http://swfchan.com/29/143777/?Komeno+-+itazura.swf;Роскомнадзор;39724-URL-on;2014-10-29
@@ -8777,6 +8829,7 @@ Updated: 2015-10-03 09:18:00 +0000
 104.28.12.117 | 104.28.13.117;tbib.org;http://tbib.org/index.php?page=post&s=view&id=685711;Роскомнадзор;31787-URL-on;2014-08-06
 78.140.184.56;tcasgames.com;http://tcasgames.com;суд;2-2940/2015;2015-07-15
 162.243.133.63 | 178.79.135.224;tdsmds.ru;http://tdsmds.ru/prostitutli/rossiya/hanty-mansiyskiy-ao/yugorsk;суд;б/н;2014-10-02
+104.18.56.80 | 104.18.57.80;tebe-diplom.net;http://tebe-diplom.net;суд;2-2063/2015;2015-08-04
 82.118.19.35;technique.bonline.com.ua;http://technique.bonline.com.ua/index.php?pid=11&cat_id=459&ad_id=232193;ФСКН;2/1/11-32350;2015-02-03
 125.6.146.14;technobreak.ldblog.jp;http://technobreak.ldblog.jp/archives/39475806.html;Роскомнадзор;32436-URL-on;2014-08-12
 89.248.166.165;teddy.nonudeplace.com;http://teddy.nonudeplace.com/gallery/glenda-young-model/index.html;Роскомнадзор;56023-URL-on;2015-04-02
@@ -8794,6 +8847,7 @@ Updated: 2015-10-03 09:18:00 +0000
 192.99.147.103 | 93.190.140.132;teenmandarin.com;http://teenmandarin.com/;Роскомнадзор;51351-URL-on;2015-02-27
 80.67.6.238;teenorama.net;http://teenorama.net/;Роскомнадзор;65911-URL-on;2015-06-19
 104.28.30.88 | 104.28.31.88 | 198.41.140.26 | 198.41.141.26;teenpornclub.biz;http://teenpornclub.biz/showthread.php?119-Tropic-Poolside-Day-series-Purenudism-2013;Роскомнадзор;16846-URL-on;2014-01-05
+104.28.30.88 | 104.28.31.88;teenpornclub.biz;http://teenpornclub.biz/showthread.php?158-Tanya-y157;Роскомнадзор;80181-URL-on;2015-09-28
 37.1.207.121;teens-sins.net;http://teens-sins.net/;Роскомнадзор;27484-URL-on;2014-06-06
 74.117.180.188;teensgetsfucking.com;http://teensgetsfucking.com/;Роскомнадзор;32537-URL-on;2014-08-12
 205.234.223.128;teensuxtube.com;http://teensuxtube.com/;Роскомнадзор;51361-URL-on;2015-02-27
@@ -9049,6 +9103,7 @@ Updated: 2015-10-03 09:18:00 +0000
 46.101.251.126;ufa.putany.xxx;http://ufa.putany.xxx;суд;2-3332/2015;2015-03-24
 85.17.148.55;ufaleisure.com;http://ufaleisure.com;суд;2-9883/2014;2014-11-05
 108.163.240.143;ufalux.ru;http://ufalux.ru;суд;2-9880/2014;2014-11-05
+91.226.127.10;ufameet.com;http://ufameet.com;суд;2-3327/2015;2015-03-24
 85.25.20.46;ugra.telkniga.com;http://ugra.telkniga.com/;суд;2-799-14;2014-04-30
 4.53.82.215;uk.falundafa.org;http://uk.falundafa.org/falun-dafa-books.html;суд;2-885/2014;2014-08-12
 98.139.135.129 | 98.139.135.198;uk.rightsectorusa.org;http://uk.rightsectorusa.org/;Генпрокуратура;27-31-2015/Ид831-15 ;2015-03-12
@@ -9173,6 +9228,7 @@ Updated: 2015-10-03 09:18:00 +0000
 212.26.135.68;vio24.com;http://vio24.com/1873-4.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0060/2015;2015-05-18
 104.18.56.54 | 104.18.57.54 | 104.28.16.27 | 104.28.17.27;vip-krasotki.club;http://vip-krasotki.club/vlk/;суд;2-7023/2014;2014-12-03
 5.45.65.57;vip-torrents.net;http://vip-torrents.net/3098-kto-ya-who-am-i-kein-system-ist-sicher-2015.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0256/2015;2015-08-14
+95.211.226.88;vip23.net;http://vip23.net;суд;2-461/2015;2015-07-29
 78.140.149.116 | 78.140.149.117;vipazartplay.com;http://vipazartplay.com;суд;б/н;2015-07-13
 78.140.149.116 | 78.140.149.117;vipazartplay.com;http://vipazartplay.com/?az50813&vid=55950281;суд;2-299/2015;2015-06-23
 162.159.247.199 | 162.159.248.199 | 89.248.174.41;vipergirls.to;http://vipergirls.to/threads/1013524-VladModels-Katya-y094-x100;Роскомнадзор;65558-URL-on;2015-06-17
@@ -10607,6 +10663,7 @@ Updated: 2015-10-03 09:18:00 +0000
 192.254.235.193;www.islam-center.net;http://www.islam-center.net/ru/components/com_book/books/islam-center.net-ru_na_puti_k_koranu904698665.pdf;суд;б/н;2014-10-15
 192.254.235.193;www.islam-center.net;http://www.islam-center.net/ru/components/com_book/books/islam-center.net-ru_three_fundamental_principles1342530322.pdf;суд;2-117/2015;2015-07-27
 192.254.235.193;www.islam-center.net;http://www.islam-center.net/ru/library/books/book/128.html;суд;2-189(2)/2014;2014-07-30
+192.254.235.193;www.islam-center.net;http://www.islam-center.net/ru/library/books/book/35.html;суд;2-62(3)/2015;2015-03-16
 159.148.92.106;www.islam.lv;http://www.islam.lv/add/sects/hizb/hizb3.pdf;Генпрокуратура;27-27-2014/Ид2616-14;2014-08-14
 159.148.92.106;www.islam.lv;http://www.islam.lv/books/akyda.pdf;суд;2-2628/2014;2014-04-09
 159.148.92.106;www.islam.lv;http://www.islam.lv/ru/library/articles/20090927112605/;Генпрокуратура;27-27-2014/Ид2616-14;2014-08-13
@@ -10762,6 +10819,7 @@ Updated: 2015-10-03 09:18:00 +0000
 5.45.77.43 | 5.45.78.211;www.kupit-diplom.biz;http://www.kupit-diplom.biz/SamarskayaOblast/kupit-diplom-v-tolyatti;суд;2-10635/2014;2014-10-20
 46.246.37.32 | 46.246.38.11 | 46.246.38.237 | 46.246.39.171 | 46.246.40.132 | 46.246.40.163 | 46.246.42.67 | 46.246.43.139 | 46.246.43.219 | 46.246.43.31 | 46.246.44.140 | 46.246.44.190 | 46.246.45.191 | 46.246.45.87 | 46.246.47.108 | 46.246.48.37 | 46.246.48.82 | 46.246.50.140 | 46.246.50.202 | 46.246.50.220 | 46.246.62.78 | 46.246.63.137 | 46.246.63.187 | 46.246.63.86;www.kupit-diplom.msk.ru;http://www.kupit-diplom.msk.ru;суд;2-1168-2015;2015-04-27
 104.27.144.88 | 104.27.145.88 | 173.254.28.36;www.kupit-pasport-rf.com;http://www.kupit-pasport-rf.com;суд;2-537/15;2015-02-10
+104.27.150.48 | 104.27.151.48;www.kupit-prava.com;http://www.kupit-prava.com;суд;2-676/2015;2015-08-11
 104.27.150.48 | 104.27.151.48 | 198.204.249.93 | 49.50.243.118;www.kupit-prava.com;http://www.kupit-prava.com/krasnoyarsk.htm;суд;2-343/15;2015-02-04
 46.29.2.62;www.kupitdiplom.biz;http://www.kupitdiplom.biz/predstavitelstva/v-vladivostoke;суд;2-4543/15;2015-06-15
 31.170.160.179;www.kupitediplom.ru;http://www.kupitediplom.ru;суд;2-10677/2014;2014-10-20
@@ -12255,6 +12313,7 @@ Updated: 2015-10-03 09:18:00 +0000
 50.63.44.1;yabeda.org;http://yabeda.org/polnostyu-chernyy-zamusorennyy-advokat-oboroten-_9348.html;суд;2-215/2015;2015-02-03
 149.62.172.72;yamaspain.com;http://yamaspain.com/afghan-solid-rock-3gr;ФСКН;2/1/11-43163;2015-09-01
 74.125.196.132;yaoi-boy-paradise.blogspot.ru;http://yaoi-boy-paradise.blogspot.ru/2013/04/bdsm_6965.html?zx=f0fe2609847f790a;Роскомнадзор;78359-URL-on;2015-09-16
+108.162.207.42 | 141.101.124.42;yaoihavenreborn.com;http://yaoihavenreborn.com/gallery/mitsui-jun-shotacon;Роскомнадзор;80200-URL-on;2015-09-28
 93.171.216.111;yaprostitutka.ru;http://yaprostitutka.ru;суд;2-35/2015;2015-01-26
 93.171.216.111;yaprostitutka.ru;http://yaprostitutka.ru/gorod/1070/novocheboksarsk;суд;2-1083/15;2015-05-12
 85.25.20.46;yarcevo.telkniga.com;http://yarcevo.telkniga.com/;суд;2-799-14;2014-04-30
