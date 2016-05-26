@@ -1,4 +1,4 @@
-Updated: 2016-05-26 15:00:00 +0000
+Updated: 2016-05-26 19:00:02 +0000
 104.28.10.72;;;Генпрокуратура;27-31-2015/Ид4082-15 ;2015-12-04
 104.28.11.72;;;Генпрокуратура;27-31-2015/Ид4082-15 ;2015-12-04
 136.243.253.129;;;ФНС;2-6-27/ 2016-02-03-20-АИ;2016-02-04
@@ -213,6 +213,7 @@ Updated: 2016-05-26 15:00:00 +0000
 77.81.245.179;24playcasino.com;http://24playcasino.com/;суд;б/н;2015-02-17
 178.32.161.68;24serial.net;http://24serial.net/1135-zhenskaya-dolya.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0195/2016;2016-03-30
 178.32.161.68;24serial.net;http://24serial.net/1399-margarita-nazarova.html;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0241/2016;2016-04-20
+5.35.172.142;24video.net;http://24video.net;суд;2-198/16;2016-01-11
 104.25.80.8 | 104.25.81.8;24vklade.com;http://24vklade.com;ФСКН;2/1/11-4284;2016-04-07
 104.28.6.67 | 104.28.7.67;24volcano.com;http://24volcano.com/;суд;б/н;2014-09-08
 104.27.190.15 | 104.27.191.15;24volcano.net;http://24volcano.net/;суд;б/н;2014-09-08
@@ -379,7 +380,6 @@ Updated: 2016-05-26 15:00:00 +0000
 104.27.170.185 | 104.27.171.185;77777planet.com;http://77777planet.com/;ФНС;2-6-27/ 2015-12-02-8-АИ;2015-12-24
 5.44.218.115;777avtomatyigrovye.com;http://777avtomatyigrovye.com/;суд;2-1724/2015;2015-09-22
 104.28.28.85 | 104.28.29.85;777azino.net;http://777azino.net/;суд;2-7127/15;2015-10-30
-92.63.111.33;777buffer.ru;http://777buffer.ru/bufe_pesni/kolovrat_slava-rassii;суд;2-943/2015;2015-10-06
 5.44.217.140;777casino-vulkan.com;http://777casino-vulkan.com/;ФНС;2015-11-20-173-АИ;2015-12-02
 37.230.119.62 | 46.165.252.176;777fortuna.com;http://777fortuna.com/;суд;2-1980/2015;2015-11-09
 5.187.5.115;777goldslot.com;http://777goldslot.com;ФНС;2-6-27/ 2015-12-15-18-АИ;2016-02-11
@@ -719,7 +719,6 @@ Updated: 2016-05-26 15:00:00 +0000
 210.224.185.197;akkoid.sakura.ne.jp;http://akkoid.sakura.ne.jp/201407/23c/45.jpg;Роскомнадзор;34036-URL-on;2014-09-01
 188.121.55.128;akkompaniator.com;http://akkompaniator.com/hotyat-li-russkie-vojny/;суд;2-852/15;2015-12-22
 128.199.117.122;akmerc.biz;http://akmerc.biz/;ФСКН;2/1/11-5321;2016-04-25
-151.80.4.237;aktivnordwest.ru;http://aktivnordwest.ru/klad_klady_zakladki.html;ФСКН;2/1/11-3554;2016-03-21
 207.244.96.206 | 37.48.89.30;akvaznak.ru;http://akvaznak.ru/;суд;б/н;2016-02-05
 74.125.196.132;al-wayi.blogspot.co.uk;http://al-wayi.blogspot.co.uk/p/pdf.html;суд;2-3347/13;2013-07-23
 74.125.196.132;al-wayi.blogspot.co.uk;http://al-wayi.blogspot.co.uk/p/pdf.html;суд;2-3349/13;2013-07-23
@@ -767,6 +766,7 @@ Updated: 2016-05-26 15:00:00 +0000
 46.22.208.118;alcohub.biz;http://alcohub.biz/izhevsk/topic-40/;суд;2-2281/2016;2016-02-05
 54.93.164.142;alcojet.ru;http://alcojet.ru;суд;2-1068/15;2015-03-11
 188.226.150.188;alcolike.com;http://alcolike.com/;суд;2-47/2016;2016-02-10
+188.226.150.188;alcolike.ru;http://alcolike.ru;суд;2-458/16;2016-02-04
 160.153.47.35;alcomamba.com;http://alcomamba.com/;суд;2-583/2016;2016-02-10
 166.62.27.58 | 91.209.77.20;alcomarket.biz;http://alcomarket.biz;суд;2-5978/2015;2015-07-24
 104.31.68.110 | 104.31.69.110;alcomarket24.com;http://alcomarket24.com/;суд;2-3959/2015;2015-10-07
@@ -1182,12 +1182,7 @@ Updated: 2016-05-26 15:00:00 +0000
 62.210.108.242;audiofreeonline.com;http://audiofreeonline.com/mp3/timur_mucuraev_-_raj_pod_tenyu_sabel;суд;2-7014/2015;2015-07-09
 62.210.108.242;audiofreeonline.com;http://audiofreeonline.com/mp3/velimor_-_skinhed_ty_nepobedim;суд;2-2061/14;2014-12-07
 46.30.41.92;audiopoisk.com;;Мосгорсуд;решение суда по делу № 3-0609/2016;2016-04-11
-188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/Виват+Россия;суд;2-972/15;2015-07-05
 188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/Иммигрант+убирайся+вон;суд;2-11176/2014;2014-10-08
-188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/Московские+бритоголовые;суд;2-3328/2014;2014-08-21
-188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/Ребята+Коловрата;суд;2-11176/2014;2014-10-08
-188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/Я+рисую+на+асфальте+1488;суд;2/2/-202/2015;2015-07-07
-188.165.238.85 | 94.23.4.28;audios.xyz;http://audios.xyz/search/качайте+железо;суд;2-321/2015;2015-04-24
 104.28.10.57 | 104.28.11.57;audisipoker.com;http://audisipoker.com/;ФНС;2-6-27/2015-11-19-92-АИ;2015-12-09
 185.28.22.121 | 185.28.22.24 | 185.28.22.30 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.44 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.16.107 | 23.238.17.148 | 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.130 | 23.254.132.14 | 23.254.132.155 | 23.254.132.93 | 23.254.164.103 | 23.254.166.133 | 23.254.167.175 | 23.254.201.113;auramozga.com;;ФСКН;2/1/11-28578;2014-11-05
 104.25.28.9 | 104.25.29.9;aushka.biz;http://aushka.biz;ФСКН;2/1/11-3201;2016-03-11
@@ -1938,7 +1933,6 @@ Updated: 2016-05-26 15:00:00 +0000
 109.74.196.93;board.mnogomebel.ru;http://board.mnogomebel.ru/info.php?id=4607;ФСКН;2/1/11-4872;2016-04-19
 194.8.253.18;board.od.ua;;ФСКН;2/1/11-5555;2016-04-27
 194.8.253.18;board.od.ua;http://board.od.ua/1050930/NARCOTIC_SPB_GMAIL_COM_kupit_amfetamin_geroin_ku;ФСКН;2/1/11-46644;2015-11-16
-194.8.253.18;board.od.ua;http://board.od.ua/1054971/kupit_geroin_kokain_amfetamin_metadon_v_odesse;ФСКН;2/1/11-3508;2016-03-18
 194.8.253.18;board.od.ua;http://board.od.ua/1056670/NARCO_PITER_gmail_com_kupit_amfetamin_v_pitere_s;ФСКН;2/1/11-47380;2015-11-27
 194.8.253.18;board.od.ua;http://board.od.ua/1057303/AMF_CENTR_MSK_GMAIL_COM_kupit_ekstazi_v_moskve;ФСКН;2/1/11-48042;2015-12-09
 194.8.253.18;board.od.ua;http://board.od.ua/1061081/THE_BLACK_MARKET_YA_RU_geroin_grechka_narkotiki_boshki;ФСКН;2/1/11-5555;2016-04-27
@@ -2060,7 +2054,6 @@ Updated: 2016-05-26 15:00:00 +0000
 193.178.144.130;board.prommetiz.com.ua;http://board.prommetiz.com.ua/view/634753/;ФСКН;2/1/11-34844;2015-03-24
 193.178.144.130;board.prommetiz.com.ua;http://board.prommetiz.com.ua/view/638457/?f=15;ФСКН;2/1/11-47107;2015-11-24
 193.178.144.130;board.prommetiz.com.ua;http://board.prommetiz.com.ua/view/641387/;ФСКН;2/1/11-40945;2015-07-21
-193.178.144.130;board.prommetiz.com.ua;http://board.prommetiz.com.ua/view/657555/;ФСКН;2/1/11-3698;2016-03-24
 49.212.34.195;board.sweetnote.com;http://board.sweetnote.com/:images/site/goumon/2014051423410680?t=jpg;Роскомнадзор;34201-URL-on;2014-09-03
 83.125.22.185;board.tekcities.com;http://board.tekcities.com/669-44271.html;ФСКН;2/1/11-548;2016-01-15
 62.149.26.120;board.tut.ua;http://board.tut.ua/view/8330401/;ФСКН;2/1/11-43234;2015-09-02
@@ -2409,6 +2402,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.31.84.17 | 104.31.85.17;cash-forum.biz;http://cash-forum.biz/topic/4418-prodazha-udostoverenii-mvdskprokuratury-avto/;суд;2-2/186/2015;2015-09-03
 37.230.118.55;cash-slot.com;http://cash-slot.com/;суд;2-1120/15;2015-12-18
 88.208.63.236;cash.bettwist.me;http://cash.bettwist.me;ФНС;2-6-27 2016-05-19-40-АИ;2016-05-20
+93.158.218.150;cashgarant.ru;http://cashgarant.ru;суд;2-1845/2015;2015-12-25
 52.17.1.137 | 52.17.190.213 | 52.17.96.76 | 95.131.239.107 | 95.131.239.108;casholotcasino.com;http://casholotcasino.com/;ФНС;2-6-27/ 2015-11-24-38-АИ;2015-12-17
 185.18.52.190 | 185.18.53.211 | 212.224.112.42;cashslot.ru;http://cashslot.ru/;суд;2-946/13;2013-06-10
 185.18.52.190 | 185.18.53.211 | 212.224.112.42;cashslot.ru;http://cashslot.ru/azartnye_igry;суд;2-752/14;2014-02-06
@@ -2759,7 +2753,6 @@ Updated: 2016-05-26 15:00:00 +0000
 91.200.40.94;city-nikopol.com.ua;http://city-nikopol.com.ua/4151-boy-v-groznom-rasskaz-ochevidca-situaciya-ne-tak-prosta-kak-nam-govoryatzayavlenie-mudzhahidov-atakovavshih-dzhohar-2-video.html;Генпрокуратура;27-27-2014/Ид4065-14;2014-12-04
 91.200.40.94;city-nikopol.com.ua;http://city-nikopol.com.ua/index.php?newsid=4151;Генпрокуратура;27-27-2014/Ид4065-14;2014-12-04
 104.27.152.207 | 104.27.153.207 | 176.9.136.210;city-sex.in;http://city-sex.in/;суд;2-9368/2015;2015-12-29
-5.9.72.252;city174.ru;http://city174.ru/chelboard/chelcompany/607163;ФСКН;2/1/11-3669;2016-03-23
 5.79.87.164 | 92.222.23.145;ck-cv.ru;http://ck-cv.ru/cat3/legalnie-poroshki-zakazat-novgorodskaya-oblast.html;ФСКН;2/1/11-2089;2016-02-16
 92.222.23.145;ck-cv.ru;http://ck-cv.ru/cat4/kupit-miks-chelyabinsk.html;ФСКН;2/1/11-4922;2016-04-20
 92.222.23.145;ck-cv.ru;http://ck-cv.ru/cat8/index.html;ФСКН;2/1/11-5033;2016-04-21
@@ -3544,7 +3537,6 @@ Updated: 2016-05-26 15:00:00 +0000
 166.78.0.98 | 188.42.248.160 | 50.56.176.110 | 50.56.179.68 | 64.49.246.241;daffylads.biz;http://daffylads.biz/;ФСКН;2/1/11-35162;2015-03-27
 66.6.41.21 | 66.6.42.21 | 66.6.43.21;dahlshita.tumblr.com;http://dahlshita.tumblr.com/post/98411761482/can-u-draw-bart-making-out-with-santas-little;Роскомнадзор;90396-URL-on;2015-11-30
 68.169.73.82;dailybasis.com;http://dailybasis.com/;Роскомнадзор;31420-URL-on;2014-08-01
-217.12.203.145;daimp3.net;http://daimp3.net/mp3-search/LA%20VIDA%20CUESTA%20LIBERTADES%20-%20Готов/;суд;2-1755/2015;2015-12-03
 104.27.148.15 | 104.27.149.15 | 162.159.250.184 | 162.159.251.184;dalian.7thstyle.com;http://dalian.7thstyle.com/2013/04/hentai-ouji-to-warawanai-neko-loli-nude-blu-ray-vol-1-seventhstyle-001-614x886.jpg;Роскомнадзор;15257-URL-on;2013-12-04
 88.208.28.57;damcekca.ru;http://damcekca.ru/;суд;2-317/2015;2015-03-17
 67.202.114.133 | 67.202.114.134;danbooru.donmai.us;http://danbooru.donmai.us/posts/1407916;Роскомнадзор;14011-URL-on;2013-11-11
@@ -4191,7 +4183,6 @@ Updated: 2016-05-26 15:00:00 +0000
 95.175.43.103;doska4u.com;http://doska4u.com/zhivotnye_i_rasteniya/ryby/94872.html;ФСКН;2/1/11-458;2016-01-14
 185.43.220.9;doskaplus.info;http://doskaplus.info/?id_catalog=276;ФСКН;2/1/11-48911;2015-12-24
 185.43.220.9 | 185.43.222.97;doskaplus.info;http://doskaplus.info/?pn=2&id_catalog=281;ФСКН;2/1/11-47283;2015-11-26
-185.43.220.9;doskaplus.info;http://doskaplus.info/blok/73475;ФСКН;2/1/11-3567;2016-03-21
 185.43.220.9 | 185.43.222.97;doskaplus.info;http://doskaplus.info/index.php?pn=0&id_catalog=225&id_land=130;ФСКН;2/1/11-46839;2015-11-18
 217.174.152.47 | 78.142.47.16;dostavka-alkogolya.com;http://dostavka-alkogolya.com/;суд;2-47/2016;2016-02-10
 141.101.121.213;dostavka-night.ru;http://dostavka-night.ru;суд;2-822/2015;2015-12-16
@@ -4827,6 +4818,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.18.36.209 | 104.18.37.209 | 104.28.20.109 | 104.28.21.109 | 198.41.204.117 | 198.41.205.117 | 198.50.209.115;flowerscoffee.biz;http://flowerscoffee.biz/;ФСКН;2/1/11-36570;2015-04-23
 104.18.34.220 | 104.18.35.220;flowsmoke.biz;http://flowsmoke.biz/;ФСКН;2/1/11-41780;2015-08-07
 80.82.64.79;fmceja2.feburo.com;http://fmceja2.feburo.com/;Роскомнадзор;94593-URL-on;2015-12-24
+46.17.46.171;fmtin.ru;http://fmtin.ru/ft-track/vandal_ded-moj-bil-shturmfurer-ss;суд;2-441/2015;2016-01-20
 85.25.177.21;fmusic.mobi;http://fmusic.mobi/kolovrat-antiantifa;суд;2-1196/15;2015-06-18
 85.25.177.21;fmusic.mobi;http://fmusic.mobi/kolovrat-velikie-rusy;суд;2-1196/15;2015-06-18
 85.25.177.21;fmusic.mobi;http://fmusic.mobi/ps762-fasizm-ne-projdet-kak-pervaa-lubov;суд;2-1060/2015;2015-12-09
@@ -6958,26 +6950,14 @@ Updated: 2016-05-26 15:00:00 +0000
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewCatg&id_catg=255;ФСКН;2/1/11-3980;2016-03-31
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewCatg&id_catg=261;ФСКН;2/1/11-41640;2015-08-06
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewCatg&id_catg=266;ФСКН;2/1/11-4285;2016-04-07
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=196615;ФСКН;2/1/11-2837;2016-03-02
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=199238;ФСКН;2/1/11-2627;2016-02-29
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=206123;ФСКН;2/1/11-1848;2016-02-10
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=206643;ФСКН;2/1/11-3328;2016-03-15
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208120;ФСКН;2/1/11-3792;2016-03-28
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208375;ФСКН;2/1/11-2751;2016-03-01
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208429;ФСКН;2/1/11-1288;2016-01-28
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208430;ФСКН;2/1/11-1287;2016-01-28
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208522;ФСКН;2/1/11-2650;2016-02-29
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208607;ФСКН;2/1/11-1286;2016-01-28
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208805;ФСКН;2/1/11-2652;2016-02-29
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208897;ФСКН;2/1/11-1240;2016-01-27
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=208898;ФСКН;2/1/11-1239;2016-01-27
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209073;ФСКН;2/1/11-3539;2016-03-21
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209119;ФСКН;2/1/11-3054;2016-03-09
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209354;ФСКН;2/1/11-2649;2016-02-29
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209577;ФСКН;2/1/11-3637;2016-03-23
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209722;ФСКН;2/1/11-2595;2016-02-26
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209784;ФСКН;2/1/11-2653;2016-02-29
-193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=209791;ФСКН;2/1/11-2651;2016-02-29
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=210091;ФСКН;2/1/11-1929;2016-02-11
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=210101;ФСКН;2/1/11-1928;2016-02-11
 193.200.255.30;izberg.net.ua;http://izberg.net.ua/modules.php?name=NukeC30&op=ViewDetail&id_ads=210122;ФСКН;2/1/11-1927;2016-02-11
@@ -7137,6 +7117,7 @@ Updated: 2016-05-26 15:00:00 +0000
 206.188.193.141;jvhshop.com;http://jvhshop.com/;ФСКН;2/1/11-35464;2015-04-03
 54.231.18.204;jw-georgia.org;http://jw-georgia.org;суд;2-1926/2013;2013-08-07
 54.231.11.90 | 54.231.81.241 | 54.231.98.186;jw-media.net;http://jw-media.net;суд;2-1926/2013;2013-08-07
+95.85.24.238;jw-tower.org;http://jw-tower.org/обзор-многочисленных-ошибок-из-книги/;суд;3-1/09;2009-09-11
 54.191.118.141 | 54.191.45.214 | 54.84.219.225 | 54.88.155.189;jw.org;http://jw.org;суд;2-1926/2013;2013-08-07
 185.31.209.104 | 185.31.209.105 | 93.158.210.29;jwh-018-gde-kupit.tlpp.biz;http://jwh-018-gde-kupit.tlpp.biz/;ФСКН;2/1/11-36058;2015-05-12
 185.59.100.43;jwh-018.miap.biz;http://jwh-018.miap.biz/;ФСКН;2/1/11-47294;2015-11-26
@@ -7822,6 +7803,7 @@ Updated: 2016-05-26 15:00:00 +0000
 190.115.24.90 | 190.14.38.114;krasnoyarsk.prostitutki.com;http://krasnoyarsk.prostitutki.com/;суд;2-4200/14;2014-08-07
 176.31.200.80 | 46.101.251.126 | 5.196.120.167 | 95.85.34.102;krasnoyarsk.putany.xxx;http://krasnoyarsk.putany.xxx/;суд;2-444/2015;2015-02-05
 85.25.20.46;krasnoyarsk.telkniga.com;http://krasnoyarsk.telkniga.com/;суд;2-799-14;2014-04-30
+93.171.217.22;krasnoyarsktut.ru;http://krasnoyarsktut.ru/doska/39126.php;ФСКН;2/1/11-6261;2013-06-02
 141.101.121.213 | 162.247.152.96;kratom.ru;http://kratom.ru/;ФСКН;2/1/11-1461;2016-02-02
 104.239.192.89 | 104.27.156.122 | 104.27.157.122;kratomonline.org;http://kratomonline.org/ru/kratom-50x-extract/;ФСКН;2/1/11-48686;2015-12-18
 91.231.86.216;krim.good.ua;http://krim.good.ua/drugie-uvlecheniya;ФСКН;2/1/11-39001;2015-06-08
@@ -11937,7 +11919,6 @@ Updated: 2016-05-26 15:00:00 +0000
 69.4.238.214;momyporn.com;http://momyporn.com/;суд;2-5233/15;2015-10-08
 85.25.20.46;monastirschina.telkniga.com;http://monastirschina.telkniga.com/;суд;2-799-14;2014-04-30
 104.25.2.35 | 104.25.3.35;moneydaplay.net;http://moneydaplay.net;суд;2-553/2015;2015-04-23
-46.4.15.19;moni.moyblog.net;http://moni.moyblog.net/2015/12/10/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D0%B8%D1%80/;ФСКН;2/1/11-3625;2016-03-22
 104.27.184.87 | 104.27.185.87;monkey.to;http://monkey.to/serialy/148/londongrad-znaj-nashih/;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0305/2015;2015-09-15
 104.27.184.87 | 104.27.185.87;monkey.to;http://monkey.to/zarubezhnye-filmy/83/padenie-londona/;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0140/2016;2016-03-15
 104.27.184.87 | 104.27.185.87;monkey.to;http://monkey.to/zarubezhnye-filmy/84/kto-ja/;Мосгорсуд;определение о предварительном обеспечении по заявлению № 2и-0256/2015;2015-08-14
@@ -12355,7 +12336,6 @@ Updated: 2016-05-26 15:00:00 +0000
 195.43.83.34;naparupalok.ru;http://naparupalok.ru/;суд;2-115/2015;2015-05-20
 5.187.7.214;napoim24.com;http://napoim24.com/;суд;2-47/2016;2016-02-10
 176.111.61.180;napoli.com.ua;http://napoli.com.ua/category_367.html;суд;2-2629/15;2015-12-07
-88.198.14.69;naprodazhu.com;http://naprodazhu.com/ad/15450/;ФСКН;2/1/11-4046;2016-04-02
 104.25.248.29 | 104.25.249.29;narco24.biz;http://narco24.biz/;ФСКН;2/1/11-1511;2016-02-02
 5.9.50.216;narcotics.su;http://narcotics.su;суд;2-134/15;2015-03-03
 91.228.154.208;nardyclub.com;http://nardyclub.com/;ФНС;2-6-27/ 2015-12-01-138-АИ;2015-12-14
@@ -12856,6 +12836,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.25.14.22 | 104.25.15.22 | 185.18.52.43 | 185.18.52.54;oligarhcasino.com;http://oligarhcasino.com;суд;2-416/2014;2014-12-10
 104.25.180.7 | 104.25.181.7;olimp.cc;http://olimp.cc/;ФНС;2-6-27 2016-05-18-28-АИ;2016-05-20
 104.20.31.114 | 104.20.32.171 | 104.20.33.171 | 104.20.37.114 | 91.216.220.15 | 91.216.220.23;olimp.com;http://olimp.com;ФНС;2-6-27/ 2016-01-18-32-АИ;2016-01-28
+141.101.121.213;olimp.supercharts.ru;http://olimp.supercharts.ru/;ФНС;2-6-27 2016-05-18-37-АИ;2016-05-20
 104.24.18.64 | 104.24.19.64;olimp1.cc;http://olimp1.cc/;ФНС;2-6-27 2016-05-18-4-АИ;2016-05-19
 104.25.168.6 | 104.25.169.6;olimp1.com;http://olimp1.com/;ФНС;2-6-27/ 2016-02-24-95-АИ;2016-03-02
 192.230.77.52 | 192.230.78.52;olimp11.cc;http://olimp11.cc/;ФНС;2-6-27/ 2016-05-18-103-АИ;2016-05-20
@@ -13690,6 +13671,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.27.178.111 | 104.27.179.111 | 184.168.221.20;prava-avto.com;http://prava-avto.com/;суд;2-481/2015;2015-08-25
 5.45.77.71;prava-na-spectehniku.ru;http://prava-na-spectehniku.ru/kupit-prava-na-karu-v-krasnodare.html;суд;2-1292/2015;2015-08-03
 46.249.52.204 | 82.200.204.92;prava-official.biz;http://prava-official.biz/;суд;2-83/2016;2016-02-01
+82.200.204.92;prava-official.biz;http://prava-official.biz/prava/.;суд;2-315/16;2016-02-08
 184.168.221.17;prava-service.com;http://prava-service.com;суд;2-146/2016;2016-04-12
 104.24.104.147 | 104.24.105.147 | 104.28.22.87 | 104.28.23.87;prava-servis.com;http://prava-servis.com;суд;2-1293/2014;2014-09-19
 160.153.74.162 | 184.168.221.75 | 50.63.202.17;prava-servis.info;http://prava-servis.info//;суд;2-463/2015;2015-09-25
@@ -13889,6 +13871,7 @@ Updated: 2016-05-26 15:00:00 +0000
 179.43.143.44 | 94.242.203.110;prostitutkishop.ru;http://prostitutkishop.ru/chita;суд;2-40/2015;2015-01-27
 37.1.201.43;prostitutkitumeni.com;http://prostitutkitumeni.com;суд;2-127/2016;2016-02-15
 46.249.51.178 | 46.249.55.136 | 46.249.55.167 | 46.249.55.187 | 5.189.150.178 | 5.189.150.179 | 5.189.155.201 | 93.158.221.141 | 93.158.221.161;prostitutkixxx.com;http://prostitutkixxx.com/;суд;2-4881/2015;2015-05-15
+46.249.55.122;prostitutkixxx.info;http://prostitutkixxx.info;суд;2-130/2016;2016-02-15
 46.249.55.188 | 5.189.143.64 | 5.255.68.178;prostitutkixxx.net;http://prostitutkixxx.net;суд;2-1459/15;2015-03-12
 213.174.159.20;prostitutok.net;http://prostitutok.net;суд;2-129/2016;2016-02-15
 104.24.2.45 | 104.24.3.45 | 190.115.22.210 | 198.41.206.199 | 198.41.207.199;prosto24.biz;http://prosto24.biz;ФСКН;2/1/11-41443;2015-08-04
@@ -14443,6 +14426,7 @@ Updated: 2016-05-26 15:00:00 +0000
 94.242.222.197;rrr.drihy893.ru;http://rrr.drihy893.ru/knigoteka?s=13690&q=%C7%C0%C2%C5%D9%C0%CD%C8%C5+%D0%D3%D1%D1%CA%CE%C3%CE+%D4%C0%D8%C8%D1%D2%C0%CA%EE%ED%F1%F2%E0%ED%F2%E8%ED+%D0%EE%E4%E7%E0%E5%E2%F1%EA%E8%E9.txt;суд;2-745/15;2015-11-19
 149.91.84.7;rtlpm.com;http://rtlpm.com/live.html;ФНС;2-6-27/ 2016-05-07-1-АИ;2016-05-13
 104.24.126.48 | 104.24.127.48;ru-azart.com;http://ru-azart.com;ФНС;2-6-27/2016-04-21-21-АИ;2016-04-22
+74.81.64.106;ru-bespredel.com;http://ru-bespredel.com/index.php?newsid=1842;суд;2-6141-2014;2014-12-30
 37.1.201.148 | 5.45.64.120;ru-casino.info;http://ru-casino.info/;ФНС;2-6-27/2015-12-01-6-АИ;2015-12-30
 37.1.201.148;ru-casino.info;http://ru-casino.info/igrovie_avtomati_na_dengi;суд;2-2211/2015;2015-12-09
 5.187.4.219;ru-credit.com;http://ru-credit.com/kupit_trudovuyu_knijku_so_stajem.html;суд;2-1701/2015;2015-06-23
@@ -14506,6 +14490,7 @@ Updated: 2016-05-26 15:00:00 +0000
 142.4.28.58 | 67.222.44.28;ru.hizb-turkiston.net;http://ru.hizb-turkiston.net/PDF/04%20Islamskoe%20gasudarstvo.pdf;суд;2-282/2015;2014-12-23
 142.4.28.58 | 67.222.44.28;ru.hizb-turkiston.net;http://ru.hizb-turkiston.net/PDF/06%20ekonomichiskaya%20systema%20v%20islame.pdf;суд;б/н;2014-08-12
 142.4.28.58 | 67.222.44.28;ru.hizb-turkiston.net;http://ru.hizb-turkiston.net/PDF/09%20Politic%20concepsia.pdf;суд;2-282/2015;2014-12-23
+23.59.121.121;ru.iherb.com;http://ru.iherb.com/;суд;2-1200;2015-11-27
 141.101.118.188 | 141.101.118.189 | 151.80.145.105 | 178.17.170.144;ru.legalizer.info;;ФСКН;2/1/11-30353;2014-12-10
 69.172.200.90;ru.leonbets.biz;http://ru.leonbets.biz/;ФНС;2-6-27/ 2016-03-06-51-АИ;2016-05-11
 69.172.200.108;ru.leonbets.cc;http://ru.leonbets.cc/;ФНС;2-6-27/ 2016-04-12-32-АИ;2016-04-20
@@ -18939,7 +18924,6 @@ Updated: 2016-05-26 15:00:00 +0000
 89.33.0.45;www.555.md;http://www.555.md/index.php?tp=10&bid=293892;ФСКН;2/1/11-42937;2015-08-27
 89.33.0.45;www.555.md;http://www.555.md/index.php?tp=10&bid=300376;ФСКН;2/1/11-47897;2015-12-10
 89.33.0.45;www.555.md;http://www.555.md/index.php?tp=12&bid=293892;ФСКН;2/1/11-42363;2015-08-18
-89.33.0.45;www.555.md;http://www.555.md/index.php?tp=12&bid=300440;ФСКН;2/1/11-2997;2016-03-04
 185.18.53.234;www.555slot.in.ua;http://www.555slot.in.ua;суд;2-2900/2014;2014-04-18
 63.221.87.75;www.560bet.com;http://www.560bet.com/;ФНС;2-6-27/ 2016-05-03-64-АИ;2016-05-17
 63.221.87.71 | 63.221.87.75;www.560bet.com;http://www.560bet.com/ru-ru/euro;ФНС;2-6-27/ 2016-02-11-21-АИ;2016-03-18
@@ -19152,7 +19136,6 @@ Updated: 2016-05-26 15:00:00 +0000
 91.202.62.11 | 91.202.63.11 | 91.202.63.8;www.amurspb.ru;http://www.amurspb.ru;суд;2-9383/2015;2015-12-10
 93.170.79.101 | 93.170.79.50;www.anapa.devochka.cz;http://www.anapa.devochka.cz;суд;2-9383/2015;2015-12-10
 95.85.34.102;www.anapa.putany.xxx;http://www.anapa.putany.xxx;суд;2-9383/2015;2015-12-10
-87.118.114.28;www.androidtop.org;http://www.androidtop.org/games/game_other/2024-skruti-kosyachok-roll-a-joint.html;ФСКН;2/1/11-2957;2016-03-04
 208.91.198.145;www.andy911store.com;http://www.andy911store.com/thj018-jwh018-legal-substitute-p-211.html;ФСКН;2/1/11-38626;2015-06-01
 94.75.237.3;www.angarsk-dosug.ru;http://www.angarsk-dosug.ru;суд;2-9383/2015;2015-12-10
 208.70.151.48 | 208.70.151.68;www.angarsk.nu38.ru;http://www.angarsk.nu38.ru;суд;2-9383/2015;2015-12-10
@@ -21742,6 +21725,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.18.38.24 | 104.18.39.24;www.megapoker99.com;http://www.megapoker99.com/index.php;ФНС;2-6-27/2015-11-19-101-АИ;2015-12-09
 46.229.162.126;www.megateenstube.com;http://www.megateenstube.com/;Роскомнадзор;109330-URL-on;2016-03-24
 109.206.187.0;www.megayoungporn.com;http://www.megayoungporn.com/;Роскомнадзор;103058-URL-on;2016-02-16
+194.44.11.187;www.memory.gov.ua;http://www.memory.gov.ua/sites/default/files/2.pdf;суд;2-316/2016;2016-02-09
 104.16.123.23 | 104.16.124.23 | 104.16.78.149 | 104.16.79.149 | 104.16.80.149 | 104.16.81.149 | 104.16.82.149;www.memri.org;http://www.memri.org/clip/en/0/0/0/0/0/0/5148.htm;Генпрокуратура;27-27-2014/Ид3558-14;2014-10-24
 104.16.35.67 | 104.16.36.67 | 104.16.37.67 | 104.16.38.67 | 104.16.39.67;www.memritv.org;http://www.memritv.org/clip/en/0/0/0/0/0/0/5148;Генпрокуратура;27-31-2015/Ид4082-15 ;2015-12-04
 104.16.35.67 | 104.16.36.67 | 104.16.37.67 | 104.16.38.67 | 104.16.39.67;www.memritv.org;http://www.memritv.org/clip/en/5148.htm;Генпрокуратура;27-27-2014/Ид3558-14;2014-10-24
@@ -23490,6 +23474,7 @@ Updated: 2016-05-26 15:00:00 +0000
 186.2.166.17 | 190.115.22.12;www.sls24.cc;http://www.sls24.cc;ФСКН;2/1/11-47597;2015-12-01
 199.88.59.38;www.slutload.com;http://www.slutload.com/;суд;2-4222/15;2015-08-17
 184.168.192.57;www.smashsportsbetting.com;http://www.smashsportsbetting.com/;ФНС;2-6-27/2015-12-10-78-АИ;2015-12-29
+89.31.74.42;www.smeshnoe.info;http://www.smeshnoe.info/story00223.html;Роспотребнадзор;9263;2016-04-22
 185.28.22.24;www.smesivsem.com;;ФСКН;2/1/11-30541;2014-12-16
 185.28.22.121 | 185.28.22.24 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.236 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.16.107 | 23.238.17.148 | 23.238.18.162 | 23.238.20.75 | 23.254.128.127 | 23.254.129.207 | 23.254.131.150 | 23.254.132.130 | 23.254.132.14 | 23.254.132.155 | 23.254.132.93 | 23.254.164.103 | 23.254.166.133 | 23.254.167.175 | 23.254.201.113;www.smesivsem.com;http://www.smesivsem.com;суд;2-352/15;2015-01-26
 185.28.22.121 | 185.28.22.24 | 185.28.22.30 | 185.28.22.35 | 185.53.168.130 | 185.53.168.147 | 185.53.168.164 | 185.53.168.85 | 185.53.169.234 | 185.53.169.251 | 185.53.169.45 | 185.53.169.78 | 185.53.170.33 | 185.53.170.6 | 23.238.17.148 | 23.254.164.103;www.smesrosip.com;;ФСКН;2/1/11-36246;2015-04-16
@@ -23910,6 +23895,7 @@ Updated: 2016-05-26 15:00:00 +0000
 88.80.185.83;www.twitlonger.com;http://www.twitlonger.com/show/n_1sjc3ge;Генпрокуратура;27-27-2014/Ид4251-14;2014-12-22
 88.80.185.83;www.twitlonger.com;http://www.twitlonger.com/show/n_1skb2pd;суд;2-4168/2014;2014-11-18
 81.95.237.20;www.txt.uz;;Мосгорсуд;решение суда по делу № 3-0405/2016;2016-03-02
+104.20.77.29 | 104.20.78.29;www.txxx.com;http://www.txxx.com/videos/1415145/flexible-facialized-asian-teens-mmf-threeway/?source=1342948556;Роскомнадзор;121994-URL-on;2016-05-19
 174.139.13.34;www.tybio.biz;http://www.tybio.biz/ru_index.asp;ФСКН;2/1/11-25553;2014-08-29
 174.139.13.34;www.tybio.biz;http://www.tybio.biz/ruservice/show.asp?id=156;ФСКН;2/1/11-36187;2015-04-15
 104.27.136.194 | 104.27.137.194 | 5.45.66.117;www.tyumendevochki.com;http://www.tyumendevochki.com;суд;2-10326/2015;2015-12-16
@@ -23995,22 +23981,15 @@ Updated: 2016-05-26 15:00:00 +0000
 5.45.66.79 | 5.45.69.104 | 5.45.69.147 | 91.224.161.196;www.vandime.ru;;ФСКН;2/1/11-45407;2015-10-20
 5.45.66.79 | 5.45.69.147 | 91.224.161.196;www.varkapiva.ru;http://www.varkapiva.ru/;ФСКН;2/1/11-45792;2015-10-30
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-EKATERINBURG-YANDEX-RU-kupit_-AMFETAMIN-MDMA-GASHISH-narkotiki-v-ekaterinburge-adv3289.html;ФСКН;2/1/11-2019;2016-02-15
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-LSD-KRASNODAR-YANDEX-RU-kupit_-AMFETAMIN-MDMA-GASHISH-LSD-narkotiki-v-krasnodare-adv3299.html;ФСКН;2/1/11-2896;2016-03-03
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-LSD-KRASNODAR-YANDEX-RU-kupit_-BOSHKI-MARIHUANU-GEROIN-narkotiki-v-krasnodare-adv3302.html;ФСКН;2/1/11-3164;2016-03-10
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-MDMA-KAZAN-YANDEX-RU-kupit_-GASHISH-AMFETAMIN-MDMA-narkotiki-v-kazani-adv3293.html;ФСКН;2/1/11-1190;2016-01-26
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-MOSKOW-MAIL-RU-Kupit_-amfetamin-kokain-v-Moskve-adv3501.html;ФСКН;2/1/11-1908;2016-02-11
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMF-NOVGOROD-YANDEX-RU-kupit_-BOSHKI-MARIHUANU-GEROIN-narkotiki-v-nizhnem-novgorode-adv3316.html;ФСКН;2/1/11-1788;2016-02-09
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AMPHETAMINE-MSK-YANDEX-RU-kupit_-AMFETAMIN-LSD-MDMA-GASHISH-kupit_-narkotiki-v-Moskve-adv3406.html;ФСКН;2/1/11-2020;2016-02-15
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/AusKing-ya-ru-NOVINKA-ZHeltiy-BANAN-130mg-kupit_-mdma-Sankt-Peterburg-SPb-adv3611.html;ФСКН;2/1/11-1476;2016-02-02
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/KoSoRuBoV-YaNdEX-Ru-kupit_-AMFETAMIN-MDMA-Ekstazi-v-Moskve-kupit_-narkotiki-v-MOSKVE-adv3560.html;ФСКН;2/1/11-3387;2016-03-16
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/KoSoRuBoV-YaNdEX-Ru-kupit_-EKSTAZI-KOKAIN-v-Moskve-kupit_-narkotiki-v-MOSKVE-adv3419.html;ФСКН;2/1/11-1499;2016-02-02
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/Kupit_-geroin-kokain-metadon-amfetamin-lsd-ekstazi-v-Kieve-adv3777.html;ФСКН;2/1/11-3507;2016-03-18
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/Kupit_-skorost_-i-ros-sip_-Nizhniy-Novgorod-89384231346-adv3608.html;ФСКН;2/1/11-1478;2016-02-02
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/LSD-AMF-SPB-YANDEX-RU-kupit_-EKSTAZI-KOKAIN-v-Petrerpurge-kupit_-narkotiki-v-Pitere-SPb-adv3442.html;ФСКН;2/1/11-3531;2016-03-21
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/MDMA-MSK-BK-RU-Kupit_-mdma-geroin-metamfetamin-v-Moskve-adv3294.html;ФСКН;2/1/11-3634;2016-03-23
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/MDMA-MSK-YANDEX-RU-kupit_-AMFETAMIN-LSD-MDMA-GASHISH-narkotiki-v-Moskve-adv3389.html;ФСКН;2/1/11-1791;2016-02-09
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/MDMA-PITER-GMAIL-COM-KUPIT_-EKSTAZI-V-PETERBURGE-KUPIT_-MDMA-V-SPB-adv3328.html;ФСКН;2/1/11-1790;2016-02-09
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/MSK-SERVISE-MAIL-RU-Kupit_-BOSHKI-MDMA-v-Moskve-adv3341.html;ФСКН;2/1/11-2981;2016-03-04
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/NARCOEXPRESS-SAMARA-GMAIL-COM-Kupit_-KOKAIN-v-Samare-MET-MARKI-LSD-25-AMFETAMIN-gde-kupit_-narkotiki-v-Samare-adv3553.html;ФСКН;2/1/11-912;2016-01-21
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/NOVOSIB-AMPHETAMINE-YANDEX-RU-kupit_-MARIHUANU-BOSHKI-GEROIN-narkotiki-v-novosibirske-adv3325.html;ФСКН;2/1/11-1789;2016-02-09
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SHOP-TGK-GMAIL-COM-kupit_-boshki-v-moskve-gidroponiku-kupit_-gashish-moskva-kupit_-narkotiki-msk-adv3456.html;ФСКН;2/1/11-2018;2016-02-15
@@ -24019,10 +23998,8 @@ Updated: 2016-05-26 15:00:00 +0000
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SHOP-TGK-SPB-GMAIL-COM-kupit_-gashish-v-pitere-marihuanu-kupit_-shishki-boshki-v-peterburge-kupit_-narkotiki-spb-adv3468.html;ФСКН;2/1/11-2676;2016-03-01
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SILKROADSPB-GMAIL-COM-Kupit_-Marihuanu-v-Pitere-Indiku-SHishki-Sativu-Konoplyu-gde-kupit_-Gashish-v-SPb-adv3722.html;ФСКН;2/1/11-1794;2016-02-09
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SOCHI-FEN-YANDEX-RU-Kupit_-amfetamin-mdma-v-Sochi-adv3105.html;ФСКН;2/1/11-1957;2016-02-12
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SPB-GASH-MAIL-RU-Kupit_-garik-boshki-marihuanu-mdma-lsd-v-Pitere-adv3308.html;ФСКН;2/1/11-3187;2016-03-11
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/SPB-MDMA-YANDEX-RU-Kupit_-LSD-25-v-Peterburge-Marki-Ekstazi-Piter-gde-kupit_-kristalli-MDMA-v-Pitere-adv3695.html;ФСКН;2/1/11-1793;2016-02-09
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/THE-BLACK-MARKET-YA-RU-LSD-25-DMT-DMT-PCP-PSP-SPAYSI-SOLI-MIKSI-REAGENT-SKOROST_-KUPIT_-V-MOSKVE-adv3244.html;ФСКН;2/1/11-2151;2016-02-17
-194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/alladv/Uslugi/Raznie-uslugi/;ФСКН;2/1/11-3095;2016-03-10
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/alladv/house/Kanctovari/;ФСКН;2/1/11-628;2016-01-18
 194.28.132.112;www.vasilkov.biz;http://www.vasilkov.biz/fen-alm-mail-ru-Kupit_-amfetamin-mdma-marki-v-Almati-adv2845.html;ФСКН;2/1/11-42641;2015-08-24
 104.16.34.6 | 104.16.35.6 | 104.16.92.150 | 104.16.93.150 | 104.16.94.150 | 104.16.95.150 | 104.16.96.150;www.vbet.com;http://www.vbet.com/#/;ФНС;2-6-27/ 2015-12-01-213-АИ;2015-12-14
@@ -25051,7 +25028,6 @@ Updated: 2016-05-26 15:00:00 +0000
 190.115.24.90 | 190.14.38.114;yaroslavl.prostitutki.com;http://yaroslavl.prostitutki.com/;суд;2-4200/14;2014-08-07
 85.25.20.46;yaroslavl.telkniga.com;http://yaroslavl.telkniga.com/;суд;2-799-14;2014-04-30
 185.31.208.74;yazarulem.com;http://yazarulem.com;суд;2-2959/2015;2015-09-30
-104.24.118.50 | 104.24.119.50 | 188.226.166.192;yeghiazaryan.info;http://yeghiazaryan.info/путин-в-ярости-стыдно-быть-русским-зап/;суд;б/н;2015-04-14
 46.148.26.72;yesmoke.space;;ФСКН;2/1/11-1529;2016-02-02
 198.58.99.155;ymuhin.ru;http://ymuhin.ru/node/40;суд;2-1047/2015;2015-12-07
 141.101.121.214;ynet.co.il;http://ynet.co.il/articles/0,7340,L-4715257,00.html;Генпрокуратура;27-31-2016/Ид760-16;2016-02-18
@@ -25407,13 +25383,10 @@ Updated: 2016-05-26 15:00:00 +0000
 104.24.122.149 | 104.24.123.149;доставка-алкоголя.com;http://доставка-алкоголя.com;суд;2-4130/2015;2015-09-18
 5.254.105.29;дубликат-алкоголя.рф;http://дубликат-алкоголя.рф;суд;2-498-2015;2015-10-01
 5.254.105.29;дубликатыалкоголя.рф;http://дубликатыалкоголя.рф/;суд;2-27/2016;2016-03-02
-88.198.57.169;евпатория.объявления.su;http://евпатория.объявления.su/advert/402078/kupit-skorost-v-pitere-fenfrompitergmailcom/;ФСКН;2/1/11-3668;2016-03-23
 104.27.158.211 | 104.27.159.211;заказ.бессоница.рф;http://заказ.бессоница.рф;ФСКН;2/1/11-42513;2015-08-20
 195.43.82.185;игровые-автоматы-вулкан.com;http://игровые-автоматы-вулкан.com/;суд;2-1566/2015;2015-03-11
 195.43.82.246;игровые-автоматы-вулкан.su;http://игровые-автоматы-вулкан.su/gaminatorvulkan;ФНС;2-6-27/2015-11-24-120-АИ;2015-12-25
-88.198.57.169;ижевск.объявления.su;http://ижевск.объявления.su/advert/402077/kupit-skorost-v-pitere-fenfrompitergmailcom/;ФСКН;2/1/11-3667;2016-03-23
 85.17.249.194;интимкарта.рф;http://интимкарта.рф;суд;2-8136/15;2015-12-23
-88.198.57.169;кача.объявления.su;http://кача.объявления.su/advert/402154/kupit-skorost-v-pitere-fenfrompitergmailcom/;ФСКН;2/1/11-3665;2016-03-23
 37.1.210.166;купить-права-24.рф;http://купить-права-24.рф;суд;2-1596/2015;2015-04-02
 94.242.203.110;лотереи.su;http://лотереи.su/;ФНС;2-6-27/ 2015-12-16-17-АИ;2016-03-09
 104.27.174.95 | 104.27.175.95;магнит-на-счетчик.рф;http://магнит-на-счетчик.рф/;суд;2-3423/2015;2015-07-10
@@ -25421,7 +25394,6 @@ Updated: 2016-05-26 15:00:00 +0000
 104.27.162.224 | 104.27.163.224;права-всем.рф;http://права-всем.рф/;суд;2-3395/15;2015-07-31
 104.27.140.32 | 104.27.141.32;проститутки-ру.рф;http://проститутки-ру.рф/;суд;2-1111/15;2015-02-09
 185.52.2.39;проститутки64.рф;http://проститутки64.рф;суд;2-139/2016;2016-02-26
-88.198.57.169;ровно.объявления.su;http://ровно.объявления.su/advert/402153/kupit-skorost-v-pitere-fenfrompitergmailcom/;ФСКН;2/1/11-3666;2016-03-23
 104.24.106.200 | 104.24.107.200;семена-конопли.com;http://семена-конопли.com/Kolpachek;ФСКН;2/1/11-14280;2013-12-06
 104.28.12.75 | 104.28.13.75 | 104.31.90.152 | 104.31.91.152 | 162.159.250.22 | 162.159.251.22 | 173.245.60.70 | 173.245.61.70;семечка-джа.com;http://семечка-джа.com/;суд;2-3734/14;2014-11-10
 104.28.12.75 | 104.28.13.75 | 104.31.90.152 | 104.31.91.152 | 162.159.250.22 | 162.159.251.22;семечка-джа.com;http://семечка-джа.com/;ФСКН;2/1/11-26875;2014-10-02
@@ -26037,6 +26009,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.28.4.100 | 104.28.5.100;casino-x12.com;https://casino-x12.com/ru;ФНС;2-6-27/ 2016-05-06-109-АИ;2016-05-11
 104.27.140.112 | 104.27.141.112;casino-x14.com;https://casino-x14.com;ФНС;2-6-27 2016-05-19-65-АИ;2016-05-20
 104.24.108.232 | 104.24.109.232 | 104.25.238.4 | 104.25.239.4;casino-x4.com;https://casino-x4.com/ru;ФНС;2-6-27/ 2016-02-04-24-АИ;2016-02-04
+104.25.244.26 | 104.25.245.26;casino-x5.com;https://casino-x5.com/ru;суд;б/н;2016-01-29
 104.25.244.26 | 104.25.245.26;casino-x5.com;https://casino-x5.com/ru;ФНС;2-6-27/ 2016-02-29-101-АИ;2016-03-02
 104.18.32.103 | 104.18.33.103;casino-x7.com;https://casino-x7.com;ФНС;2-6-27/2016-04-05-2-АИ;2016-04-22
 104.18.32.103 | 104.18.33.103;casino-x7.com;https://casino-x7.com/;ФНС;2-6-27/2016-04-11-49-АИ;2016-04-18
@@ -26169,6 +26142,7 @@ Updated: 2016-05-26 15:00:00 +0000
 104.25.148.20 | 104.25.149.20;coinroll.com;https://coinroll.com/;ФНС;2-6-27/2015-12-30-17-АИ;2016-02-05
 46.28.203.195;coinroyale.com;https://coinroyale.com/;ФНС;2-6-27/19;2015-11-13
 78.110.18.147;comeon.com;https://comeon.com;суд;2-3904/2015;2015-05-28
+62.210.245.246;cont.ws;https://cont.ws/post/189984;суд;2-32312/2015;2015-10-27
 37.139.9.232;coyote-fly.com;https://coyote-fly.com;ФСКН;2/1/11-1073;2016-01-25
 52.16.123.187;cryptogames.io;https://cryptogames.io/;ФНС;2-6-27/2015-12-30-15-АИ;2016-02-05
 104.18.54.50 | 104.18.55.50;crystalcasino1.com;https://crystalcasino1.com;суд;2-1139/2016;2016-02-16
@@ -27475,7 +27449,6 @@ Updated: 2016-05-26 15:00:00 +0000
 37.221.165.209;msk.intimcity.nl;https://msk.intimcity.nl/;суд;2-1470/15;2015-03-12
 104.28.6.39 | 104.28.7.39 | 88.208.32.180;mskputana.com;https://mskputana.com/;суд;2-1450/15;2015-03-11
 37.48.109.132 | 37.48.122.109;multigmclub.com;https://multigmclub.com/;ФНС;2-6-27/ 2016-02-16-130-АИ;2016-02-19
-188.138.17.44 | 85.25.104.146;musik.kz;https://musik.kz/track/-37521506_206457023;суд;2-2280/10;2010-09-13
 193.111.140.108 | 89.163.154.90;musvid.net;https://musvid.net/muscat/%C0%ED%E4%E5%E3%F0%E0%F3%ED%E4+%EA%EE%EC%E0/;суд;2-531/15;2015-09-07
 84.20.200.3;myaccount.betfair.com;https://myaccount.betfair.com/summary/accountsummary;ФНС;2-6-27/ 2016-03-21-84-АИ;2016-05-13
 198.72.105.213;mybookie.lv;https://mybookie.lv/online-sportsbook/;ФНС;2-6-27/ 2016-05-05-27-АИ;2016-05-13
