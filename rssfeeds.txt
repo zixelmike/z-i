@@ -1,0 +1,3 @@
+https://sourceforge.net/p/z-i/code-0/feed
+https://github.com/zapret-info/z-i/commits/master.atom
+https://app.assembla.com/spaces/z-i/stream.rss
