@@ -7760,6 +7760,7 @@ mp-01.fbmetrix-ffdc0.tk
 mp-01.fbmetrix.click
 mp-01.routemeto.info
 mp-01.smartdirectpath.club
+mp-01.smartdirectpath.com
 mp-01.smartdirectpath.info
 mp-01.smartdirectpath.net
 mp-01.smartdirectpath.org
@@ -7778,6 +7779,7 @@ mp-02.fbmetrix-fd9f6.tk
 mp-02.fbmetrix.click
 mp-02.routemeto.info
 mp-02.smartdirectpath.club
+mp-02.smartdirectpath.com
 mp-02.smartdirectpath.info
 mp-02.smartdirectpath.net
 mp-02.smartdirectpath.org
@@ -7793,6 +7795,7 @@ mp-03.directsmartroute.net
 mp-03.directsmartroute.org
 mp-03.fbmetrix.click
 mp-03.smartdirectpath.club
+mp-03.smartdirectpath.com
 mp-03.smartdirectpath.info
 mp-03.smartdirectpath.net
 mp-03.smartdirectpath.org
@@ -7807,6 +7810,7 @@ mp-04.directsmartroute.co
 mp-04.directsmartroute.net
 mp-04.directsmartroute.org
 mp-04.smartdirectpath.club
+mp-04.smartdirectpath.com
 mp-04.smartdirectpath.info
 mp-04.smartdirectpath.net
 mp-04.smartdirectpath.org
@@ -7821,6 +7825,7 @@ mp-05.directsmartroute.co
 mp-05.directsmartroute.net
 mp-05.directsmartroute.org
 mp-05.smartdirectpath.club
+mp-05.smartdirectpath.com
 mp-05.smartdirectpath.info
 mp-05.smartdirectpath.net
 mp-05.smartdirectpath.org
@@ -10416,6 +10421,7 @@ sports.2016btw.com
 sports.bspotr.com
 sports.eurtbc.com
 sports.spbtru.com
+sports.tbcwin.com
 sports18.betin.com
 sports1xtom.com
 sportsxbet3.com
