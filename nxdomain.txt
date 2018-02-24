@@ -2100,6 +2100,7 @@ attestat-ru.com
 attestat-rus.com
 atyqhuj23t.current.wap.google.comuk.top
 aushka.biz.af
+auto-propusk.ru
 autolax.ru
 automotodocs.org
 automotodrive.org
@@ -2336,6 +2337,7 @@ baltgame.online
 baltgame.site
 baltplay-access.info
 baltplay-access.site
+baltplay-access.xyz
 baltplay.bet
 baltplay.net
 baltplay.org
@@ -8679,6 +8681,8 @@ playamo-casino.ru
 playamocasino.info
 playavtik.com
 playbalt-access.info
+playbalt-access.site
+playbalt-access.xyz
 playbalt.com
 playfortuna-zerkalo.com
 playfortuna.su
