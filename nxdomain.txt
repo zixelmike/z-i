@@ -9574,6 +9574,7 @@ ru.leon17.net
 ru.leonbets11.ru
 ru.leonbets23.ru
 ru.paradcasino.com
+ru.play.casino
 ru.playfortuna2.com
 ru.playfortuna3.com
 ru.playfortuna4.com
@@ -9781,6 +9782,9 @@ ru.sportingbetrussia.com
 ru.tradebanq.com
 ru.yourpokercash.com
 ru2.1admiral-x.com
+ru2.play.casino
+ru3.play.casino
+ru4.play.casino
 ruazart.com
 rubcash.ru
 rubdice.com
