@@ -1422,7 +1422,6 @@ account.bkfongame.com
 account.bkfonsport.cf
 account.bkfonsports.cf
 account.bksportfon.cf
-account.fon-bet-game.cf
 account.fon-bet.cf
 account.fon-betbk.cf
 account.fon-betbk.tk
@@ -4495,7 +4494,6 @@ games.bksportfon.club
 games.bksportfon.org
 games.bksportfon.pro
 games.do-running.com
-games.fon-bet-game.cf
 games.fon-bet.cf
 games.fon-betbk.cf
 games.fon-betbk.tk
@@ -6860,7 +6858,6 @@ m.btplay.bet
 m.btplay.xyz
 m.bukbaltplay.com
 m.diplomasrus.com
-m.fon-bet-game.cf
 m.fon-bet.cf
 m.fon-betbk.cf
 m.fon-betbk.tk
@@ -11948,7 +11945,6 @@ www.filmslove.ru
 www.flowerscoffee.biz
 www.flyrcstore.net
 www.folkdemc.com
-www.fon-bet-game.cf
 www.fon-bet.cf
 www.fon-betbk.cf
 www.fon-betbk.tk
@@ -11994,7 +11990,6 @@ www.fonbet-b4dd5.tk
 www.fonbet-b6549.tk
 www.fonbet-b813d.tk
 www.fonbet-c59e3.tk
-www.fonbet-c7f7a.tk
 www.fonbet-d356e.tk
 www.fonbet-d5efb.tk
 www.fonbet-d67da.tk
@@ -12377,6 +12372,7 @@ www.mnogodiplomov.com
 www.mod-pos.net
 www.models-heaven.in
 www.moejozonlinecasino.com
+www.moldova4u.info
 www.monopolya24.cc
 www.monstersmokeshop.net
 www.moscow-diplom.club
