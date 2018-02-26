@@ -7835,6 +7835,7 @@ mp-01.smartdirectroute.biz
 mp-01.smartdirectroute.org
 mp-01.smartdirectroute.pro
 mp-01.smartdirectroute.xyz
+mp-02.directroute.co
 mp-02.directroute.info
 mp-02.directroute.xyz
 mp-02.directsmartroute.co
@@ -7871,6 +7872,7 @@ mp-03.smartdirectroute.biz
 mp-03.smartdirectroute.org
 mp-03.smartdirectroute.pro
 mp-03.smartdirectroute.xyz
+mp-04.directroute.co
 mp-04.directroute.info
 mp-04.directroute.xyz
 mp-04.directsmartroute.co
@@ -7886,6 +7888,7 @@ mp-04.smartdirectroute.biz
 mp-04.smartdirectroute.org
 mp-04.smartdirectroute.pro
 mp-04.smartdirectroute.xyz
+mp-05.directroute.co
 mp-05.directroute.info
 mp-05.directroute.xyz
 mp-05.directsmartroute.co
