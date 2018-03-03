@@ -7367,6 +7367,7 @@ medkniga-ekb.ru
 medkniga-nn.ru
 medkniga-omsk.ru
 medkniga-samara.ru
+medkniga-saratov.ru
 medkniga-tumen.ru
 medkniga-ufa.ru
 medkniga-voronezh.ru
@@ -10776,7 +10777,6 @@ taxihorvatiyatransfer.ru
 tbet.ge
 tclogic.ru
 teakiss.ru
-teatr-vernisazh.ru
 tebe-diplom.net
 tecoproect.ru
 teen-nudism.com
