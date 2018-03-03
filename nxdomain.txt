@@ -2510,6 +2510,7 @@ betcity1.top
 betcity2.top
 betcityzerkalo.top
 betfon.cf
+betfon.org
 betfon.tk
 betges.com
 bethouse.org
@@ -2599,6 +2600,7 @@ bets.sport-in-fon.org
 bets.sportfon.online
 bets.sportfon.org
 betsfon.cf
+betsfon.com
 betsfon.tk
 betsportbk.xyz
 betsstore.live
@@ -3730,6 +3732,7 @@ diplomsam.ru
 diplomsamara.com
 diplomsite.com
 diplomstore.com
+diplomtula.ru
 diplomu-kupyti.com
 diplomu-novosib.com
 diplomul.ru
@@ -4235,16 +4238,20 @@ fon-bet.cf
 fon-betbk.cf
 fon-betbk.tk
 fon-bets.su
+fon-betsport.com
 fon-betsport.org
 fon-betsport.tk
+fon-betsport.xyz
 fon-mail.com
 fon-mail.info
 fon-mail.net
 fon-mail.org
 fon-sport.cf
 fon-sport.org
+fon-sport.xyz
 fon-sportbet.com
 fon-sportbet.org
+fon-sportbet.xyz
 fon-sports-bet.cf
 fon-sports-bet.tk
 fonbet-02db1.tk
@@ -4314,6 +4321,7 @@ fonbet-site.info
 fonbet-sport.cf
 fonbet-sport.com
 fonbet-sport.org
+fonbet-sport.xyz
 fonbet-tennis.su
 fonbet-vhod.su
 fonbet.bkr.space
@@ -4375,12 +4383,16 @@ fonbetzerkalo.top
 fonbetzerkalo1.info
 fongame-online.cf
 fongametime.net
+foninfo.net
 fonsport-bet.org
 fonsport-bet.tk
+fonsport-bet.xyz
 fonsport.cf
 fonsport.tk
+fonsport.xyz
 fonsportbet.cf
 fonsportbet.tk
+fonsportbet.xyz
 fonsportgame.cf
 fonsportgame.tk
 footballfanru.info
@@ -6363,6 +6375,7 @@ legalnye-soli-v-nizhnem-novgorode.sabec.biz
 legalplanet.biz
 legalplanet.site
 legalproduct.rc-market.biz
+legalrc-shop.biz
 legalrc24.cn
 legalrconline.biz
 legalrs.ru
@@ -6520,6 +6533,7 @@ livetvsport.sx
 lk.adv.bkfind.space
 llamabet.co.uk
 llueebjxv.srcl.connect.netcdn.bcdl.rockscdn.net
+lockzer.com
 lokst-nopie.ru
 lol-lol.xyz
 lolita-haus.com
@@ -7366,6 +7380,7 @@ media.imgsrc.l8er.jp
 media.islamumma.net
 medical-spravki.com
 medicfarm.org
+medicinskie-spravki-msk.ru
 medicomsk.com
 medicone.ru
 medicrus1.com
@@ -11517,6 +11532,7 @@ www.4udesa.biz
 www.4zenit.win
 www.51azino777.win
 www.520365.com
+www.54dogs.ru
 www.5555zenit.win
 www.555ki.biz
 www.555zenit.win
@@ -11717,6 +11733,7 @@ www.bestcasinouk.co.uk
 www.bestprava.bz
 www.bet-in-fon.cf
 www.bet-in-fon.com
+www.bet-in-fon.net
 www.bet-in-fon.org
 www.bet-in-fon.tk
 www.bet-one-x1.com
@@ -11727,6 +11744,7 @@ www.bet2play24.com
 www.bet555.gr
 www.betfon.cf
 www.betfon.net
+www.betfon.org
 www.betfon.tk
 www.betftv.com
 www.betgames.ru
@@ -11741,6 +11759,8 @@ www.betnano7.com
 www.betrus.ru
 www.betsfon.cf
 www.betsfon.com
+www.betsfon.net
+www.betsfon.org
 www.betsfon.tk
 www.betsportbk.xyz
 www.betting24.ru
@@ -12042,12 +12062,15 @@ www.fon-betbk.tk
 www.fon-betsport.com
 www.fon-betsport.org
 www.fon-betsport.tk
+www.fon-betsport.xyz
 www.fon-mail.info
 www.fon-sport.cf
 www.fon-sport.com
 www.fon-sport.org
+www.fon-sport.xyz
 www.fon-sportbet.com
 www.fon-sportbet.org
+www.fon-sportbet.xyz
 www.fon-sports-bet.cf
 www.fon-sports-bet.com
 www.fon-sports-bet.tk
@@ -12104,6 +12127,7 @@ www.fonbet-ru3.su
 www.fonbet-sport.cf
 www.fonbet-sport.com
 www.fonbet-sport.org
+www.fonbet-sport.xyz
 www.fonbet1.vip
 www.fonbet10.vip
 www.fonbet11.vip
@@ -12155,13 +12179,17 @@ www.fongametime.org
 www.foninbet.org
 www.foninfo.net
 www.foninsport.org
+www.fonsport-bet.com
 www.fonsport-bet.org
 www.fonsport-bet.tk
+www.fonsport-bet.xyz
 www.fonsport.cf
 www.fonsport.pro
 www.fonsport.tk
+www.fonsport.xyz
 www.fonsportbet.cf
 www.fonsportbet.tk
+www.fonsportbet.xyz
 www.fonsportgame.cf
 www.fonsportgame.com
 www.fonsportgame.tk
@@ -12439,6 +12467,7 @@ www.med-spravka.com
 www.med-spravki-msk.ru
 www.med812.com
 www.medical-spravki.com
+www.medicinskie-spravki-msk.ru
 www.meditail.ru
 www.medknigka-cheboksary.ru
 www.medskladmsk.ru
