@@ -4313,7 +4313,6 @@ fonbet-info6.su
 fonbet-live1.su
 fonbet-live2.su
 fonbet-live3.su
-fonbet-registraciya.su
 fonbet-ru.su
 fonbet-ru3.su
 fonbet-russia.top
@@ -8933,6 +8932,7 @@ pro24.biz
 probukmeker.bet
 probukmeker.net
 probukmeker.org
+probukmeker.pro
 prodaga-diploma.com
 prodam.sk
 prodamdiplom.org
