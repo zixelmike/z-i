@@ -9347,7 +9347,6 @@ racing.fonbetlink.tk
 racing.fonbetsportclub.tk
 racing.fongame-online.cf
 racing.fongame.online
-racing.fongametime.com
 racing.fongametime.net
 racing.fongametime.online
 racing.fongametime.org
@@ -13216,7 +13215,6 @@ www2.marafonbukmekerskajakontora.ru
 www2.maximumbet.ru
 www2.onlinecas.ru
 www2.tex-osmotr-avto.ru
-www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www24.betcity.ru.com
 www28.betcity.ru.com
