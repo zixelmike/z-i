@@ -4949,6 +4949,7 @@ gesti-mnogo.net
 getbox.org
 getfonwin.com
 getmpc10.com
+getmpc11.com
 getmpc2.com
 getmpc3.com
 getmpc4.com
@@ -5117,6 +5118,7 @@ home.marionetka.org
 home.sesbet.com
 home3.betrebels.com
 hot-tula.com
+hotautomaty.com
 hottelka.ru
 hottelka.su
 hotwallpaper.ru
@@ -5583,6 +5585,7 @@ ksivaweb.com
 kupi-diplom-spb.com
 kupi-diplom-ulyanovsk.ru
 kupi-diplom-v-barnaule.ru
+kupi-diplom-v-krasnodare.ru
 kupi-diplom-v-tule.ru
 kupi-diplom.club
 kupi-diplomvufe.ru
@@ -5720,6 +5723,7 @@ kupit-diplom-v-penze.ru
 kupit-diplom-v-samare.ru
 kupit-diplom-v-vologde.ru
 kupit-diplom-v-volzhskom.ru
+kupit-diplom-vnovosibirske.ru
 kupit-diplom-vuza.pro
 kupit-diplom-vuza.top
 kupit-diploma-spb.com
