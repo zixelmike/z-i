@@ -2665,6 +2665,7 @@ bk-fon.cf
 bk-fon.tk
 bk-fonbet.cf
 bk-fonbet.tk
+bk-info11.online
 bk-info3.online
 bk-info5.online
 bk-info9.online
@@ -3630,7 +3631,6 @@ diplom-chel.ru
 diplom-chelly.ru
 diplom-elektrostal.com
 diplom-externom.com
-diplom-in-moscow.ru
 diplom-instituta.ru
 diplom-kazhdomy.com
 diplom-kirov.com
@@ -8923,6 +8923,7 @@ portmp3.ru
 portpoteh.ru
 posi841ac.bookolimp.xyz
 postikrom.ru
+potensib.ru
 poxuy.ru
 pr.adv.bkfind.space
 pra-va.ru
@@ -13357,6 +13358,7 @@ xn----7sbbbnb3aqdefc1bb7ck6l8c.su
 xn----7sbbmzigklf4c.xn--p1ai
 xn----7sbe2ahfefqc1n.xn--p1ai
 xn----7sbenjtdf1aq.xn--p1ai
+xn----7sboxlull.xn--p1ai
 xn----7sbvehqfibu7aj.xn--p1ai
 xn----7sbzclhllkm.xn--p1acf
 xn----888-3vebf0ba7cbbcxxqb5ahn2aj11a.xn--p1acf
