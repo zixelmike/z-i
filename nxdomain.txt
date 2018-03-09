@@ -4476,6 +4476,7 @@ fonbetzerkalo.top
 fonbetzerkalo1.info
 fongame-online.cf
 fongametime.net
+foninfo-sport.info
 foninfo.net
 foninfosport.info
 fonsport-bet.org
@@ -5683,6 +5684,7 @@ kupi-diplom-v-habarovske.ru
 kupi-diplom-v-irkutske.ru
 kupi-diplom-v-kaluge.ru
 kupi-diplom-v-krasnodare.ru
+kupi-diplom-v-tolyatti.ru
 kupi-diplom-v-tule.ru
 kupi-diplom.club
 kupi-diplomvastrahani.ru
