@@ -2702,6 +2702,7 @@ bk-marafon-zerkalo.win
 bk-marafon.bid
 bk-marafon.host
 bk-marafon.online
+bk-marafon.pro
 bk-marafon.site
 bk-marafon.website
 bk-marafon.win
