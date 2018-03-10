@@ -2696,9 +2696,13 @@ bk-info5.online
 bk-info9.online
 bk-leon2.top
 bk-marafon-zerkalo.bid
+bk-marafon-zerkalo.space
 bk-marafon-zerkalo.win
 bk-marafon.bid
 bk-marafon.host
+bk-marafon.online
+bk-marafon.site
+bk-marafon.website
 bk-marafon.win
 bk-parimatch.com
 bk-sportfon.cf
@@ -3343,6 +3347,7 @@ casinodrift.club
 casinodrift.me
 casinodrift.win
 casinoegrnd.net
+casinoevropa.ru
 casinof.net
 casinofor-realmoney.com
 casinofrank.1000igr.net
@@ -5075,7 +5080,9 @@ go-marafon.bid
 go-marafon.host
 go-marafon.online
 go-marafon.site
+go-marafon.space
 go-marafon.top
+go-marafon.website
 go-marafon.win
 go-md.ru
 go2baltplay.info
@@ -6395,6 +6402,7 @@ la2ice.ru
 lab-porn0.ru
 labour.ltw.bkfind.space
 lamer.com.ua
+landingpagesn.xyz
 lapatusha.ru
 last-play77.ru
 lastexorcism.ru
@@ -7453,10 +7461,13 @@ many-torrents.net
 many3games.com
 manyslots.ru
 marafon-bk.bid
+marafon-bk.host
 marafon-bk.online
 marafon-bk.pro
 marafon-bk.site
+marafon-bk.space
 marafon-bk.top
+marafon-bk.website
 marafon-bk.win
 marafon-mirror.men
 marafon-mirror.party
@@ -7500,6 +7511,7 @@ marafondostup.top
 marafondostup.website
 marafondostup.win
 marafongo.bid
+marafongo.host
 marafongo.pro
 marafongo.space
 marafongo.website
@@ -10300,6 +10312,7 @@ seksvideosmotret.com
 sektorslots.com
 semerka2.club
 semerka3.club
+semerky.club
 semerky777.com
 semsemsem.org
 semyanich.mu
@@ -11330,6 +11343,7 @@ vgareme.xxx
 vgoodazartgames.com
 vi493cern792ihol0.bmkolimp.website
 viable.ltw.bkfind.space
+viagra-vse.ru
 viagraforyou.ru
 vibratorspb.com
 vicmundir.ru
