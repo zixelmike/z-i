@@ -1640,6 +1640,7 @@ account.fonbet98.com
 account.fonbet99.com
 account.fonbetbk.cf
 account.fonbetbk.tk
+account.fonbetgame.cf
 account.fonbetgame.tk
 account.fonbetlink.tk
 account.fonbetsportclub.tk
@@ -4460,6 +4461,7 @@ fonbetbk.cf
 fonbetbk.ru
 fonbetbk.tk
 fonbetcloobnet43.space
+fonbetgame.cf
 fonbetgame.tk
 fonbetinfo5.su
 fonbetlajv.ru
@@ -4824,6 +4826,7 @@ games.fonbet98.com
 games.fonbet99.com
 games.fonbetbk.cf
 games.fonbetbk.tk
+games.fonbetgame.cf
 games.fonbetgame.tk
 games.fonbetlink.tk
 games.fonbetsportclub.tk
@@ -7315,6 +7318,7 @@ m.fonbet98.com
 m.fonbet99.com
 m.fonbetbk.cf
 m.fonbetbk.tk
+m.fonbetgame.cf
 m.fonbetgame.tk
 m.fonbetlink.tk
 m.fonbetsportclub.tk
@@ -9547,6 +9551,7 @@ racing.fonbet98.com
 racing.fonbet99.com
 racing.fonbetbk.cf
 racing.fonbetbk.tk
+racing.fonbetgame.cf
 racing.fonbetgame.tk
 racing.fonbetlink.tk
 racing.fonbetsportclub.tk
@@ -12441,6 +12446,7 @@ www.fonbet9.vip
 www.fonbetbk.cf
 www.fonbetbk.ru
 www.fonbetbk.tk
+www.fonbetgame.cf
 www.fonbetgame.tk
 www.fonbetlajv.ru
 www.fonbetlink.tk
@@ -13311,6 +13317,7 @@ www.vamspravku.ru
 www.vandime.ru
 www.varkapiva.ru
 www.vdiplome.net
+www.vegas.ladbrokers.com
 www.veqas24.biz
 www.vetrinamix.com
 www.vgareme.xxx
@@ -13714,6 +13721,7 @@ youzenit.win
 yp734xc.olimpbook.lol
 yuliapolyakova.ru
 yupiter.space
+z-bro.biz
 zaau.www108.ru
 zabral24.biz
 zacaz-stuffa.ru
