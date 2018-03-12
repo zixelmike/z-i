@@ -2145,6 +2145,7 @@ ap-08.access-fonbet.club
 ap-09.access-fonbet.club
 ap-10.access-fonbet.club
 ap-11.access-fonbet.club
+ap-11.access-fonbet.net
 ap-12.access-fonbet.club
 ap-13.access-fonbet.club
 ap-14.access-fonbet.club
