@@ -202,6 +202,7 @@
 1x-sport-bk.com
 1x-sport-bk5.com
 1x-sport-bk6.com
+1x-sport-bk7.com
 1x-sport-bk9.com
 1x-turkey1.com
 1x-turkey2.com
@@ -12151,6 +12152,7 @@ www.1x-sport-bk.com
 www.1x-sport-bk4.com
 www.1x-sport-bk5.com
 www.1x-sport-bk6.com
+www.1x-sport-bk7.com
 www.1x-sport-bk8.com
 www.1x-sport-bk9.com
 www.1x-zerkalo.ru
