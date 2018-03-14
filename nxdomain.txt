@@ -2839,6 +2839,7 @@ bkfon-bet.cf
 bkfon-bet.tk
 bkfon-sport.tk
 bkfonbet-19.su
+bkfonbet-2.su
 bkfonbet-29.ru
 bkfonbet-online.cf
 bkfonbet-online.tk
@@ -6507,6 +6508,7 @@ kupite-diplom-kaliningrad.ru
 kupite-diplom-v-kazani.ru
 kupite-diplom-v-kurgane.ru
 kupite-diplom-v-kurske.ru
+kupite-diplom-v-orenburge.ru
 kupite-diplom-v-penze.ru
 kupite-diplom-v-rostove.ru
 kupite-diplom-v-samare.ru
