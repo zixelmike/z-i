@@ -7555,7 +7555,6 @@ medkniga-ekb.ru
 medkniga-samara.ru
 medkniga-saratov.ru
 medkniga-tumen.ru
-medkniga-ufa.ru
 medkniga-voronezh.ru
 medknigka54.ru
 medknizhka-nn.ru
@@ -10417,6 +10416,7 @@ shamarc.top
 shamars.biz
 shambala.us
 shamrc.biz
+share-files.ocry.com
 shetmoo.ru
 shishka.biz
 shishkin.it
