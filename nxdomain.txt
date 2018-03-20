@@ -5223,6 +5223,7 @@ getbox.org
 getfonwin.com
 getmpc10.com
 getmpc11.com
+getmpc12.com
 getmpc2.com
 getmpc3.com
 getmpc4.com
@@ -7670,6 +7671,7 @@ mefedron-sol-novopavlovsk.2865050.ru
 mega-drinks.org
 mega-dwar.com
 mega-jack.net
+mega-mag.biz
 mega-mag24.biz
 mega-magnet.org
 mega-massa.org
@@ -12155,6 +12157,7 @@ www.betzenitsport.xyz
 www.betzerkalo.name
 www.betzerkalo.top
 www.beyondpharmchem.com
+www.bezvb.ru
 www.bhkwileh.com
 www.bigpot.ru
 www.bitcoinbestcasino.com
@@ -13264,7 +13267,6 @@ www.skyperovnoicq.net
 www.slavaangel.com
 www.sldfkrie.com
 www.slot-casino.org
-www.slotbonuscasino.com
 www.slotmachines.me.uk
 www.slotocosmos.com
 www.slotpapa.net
@@ -13465,7 +13467,6 @@ www.vipcompanion.ru
 www.vipprava.bz
 www.vips-diplomy.com
 www.vipslotvoyager.com
-www.vipuslugi.com
 www.virtlaw.ru
 www.virtual-legal.biz
 www.vitalia-bro.com
