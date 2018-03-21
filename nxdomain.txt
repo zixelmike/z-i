@@ -9511,6 +9511,7 @@ racing.bkfonbetsport.cf
 racing.bkfonbetsport.com
 racing.bkfonbetsport.tk
 racing.bkfonbetsports.cf
+racing.bkfonbetsports.com
 racing.bkfonbetsports.org
 racing.bkfonbetsports.tk
 racing.bkfongame.com
@@ -9874,6 +9875,7 @@ register.betinfon.club
 register.betinfon.net
 register.betinfon.org
 register.bkfonbetsport.com
+register.bkfonbetsports.com
 register.bkfonbetsports.org
 register.bkfongame.com
 register.bkfonsport.club
