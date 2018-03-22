@@ -2847,7 +2847,6 @@ bk-fon.cf
 bk-fon.tk
 bk-fonbet.cf
 bk-fonbet.tk
-bk-fonbet136.ru
 bk-info11.online
 bk-info3.online
 bk-info5.online
@@ -4467,6 +4466,7 @@ f28a67.olimpb138.top
 f2a2b8.olimp1897.top
 f2abdf.olimpb24d.gdn
 f35cde.olimp12da.top
+f4a71a.olimp1897.top
 f4d088.olimp9b55.gdn
 f53caf.olimp31d2.top
 f5a091.olimp58e7.top
@@ -7720,6 +7720,7 @@ mdmarulab.com
 mdmashoprus.priv8joker.com
 me.adv.bkfind.space
 mebel-sayt.ru
+med-sertifikat.ru
 med-spravka.biz
 med-spravka.com
 medblanks.com
@@ -9254,6 +9255,7 @@ porno-club24.com
 porno-foto-home.net
 porno-komiksy.com
 porno-ku.com
+porno-lenta.ru
 porno-mob.com
 porno-on-line.ru
 porno-online-film.com
@@ -9508,6 +9510,7 @@ putana-69.ru
 putana-x.ru
 putana.mobi
 putanarus.net
+putani-online.ru
 putanialt.ru
 putany-vip.ru
 putany.xxx
@@ -13813,6 +13816,7 @@ www2.marafonbukmekerskajakontora.ru
 www2.maximumbet.ru
 www2.onlinecas.ru
 www2.tex-osmotr-avto.ru
+www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www24.betcity.ru.com
 www28.betcity.ru.com
@@ -14129,6 +14133,7 @@ zavisimnet.ru
 zaycev-tut.ru
 zed291bert83i1ol0.bmkolimp.website
 zedrop.info
+zedrop.me
 zedrop.net
 zedrop.org
 zedrop.pro
