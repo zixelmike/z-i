@@ -1901,6 +1901,7 @@ air.parimatchnew10.com
 air.parimatchnew2.com
 air.parimatchnew5.com
 air.parimatchpm2.com
+air.parimatchstavka7.com
 air.parimatchwin1.com
 air.parimatchwin4.com
 air.parimatchwin5.com
@@ -7668,6 +7669,7 @@ m.parimatchstavka2.com
 m.parimatchstavka3.com
 m.parimatchstavka4.com
 m.parimatchstavka5.com
+m.parimatchstavka7.com
 m.parimatchwin.com
 m.parimatchwin1.com
 m.parimatchwin10.com
@@ -11476,6 +11478,7 @@ srcn2.connect.netcdn.bcdl.rocks
 srcn222.connect.netcdn.bcdl.rocks
 srcn239.connect.netcdn.bcdl.rocks
 srcn24.connect.netcdn.bcdl.rocks
+srcn257.connect.netcdn.bcdl.rocks
 srcn328.connect.netcdn.bcdl.rocks
 srcn401.connect.netcdn.bcdl.rocks
 srcn42.connect.netcdn.bcdl.rocks
